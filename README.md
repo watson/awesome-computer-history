@@ -11,4 +11,4 @@ Title | Year | Note
 
 ## Folklore texts
 
-- [Unix Recovery Legend](http://www.ee.ryerson.ca/~elf/hack/recovery.html)
+- [Unix Recovery Legend](http://www.ee.ryerson.ca/~elf/hack/recovery.html) (1986)
