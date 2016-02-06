@@ -13,14 +13,14 @@ An Awesome List of computer history videos and related folklore
 
 ### Documentaries
 
-- [Triumph of the Nerds: The Rise of Accidental Empires](https://en.wikipedia.org/wiki/Triumph_of_the_Nerds) (1996) _No video online_
-- [BBS The Documentary](https://www.youtube.com/playlist?list=PLgE-9Sxs2IBVgJkY-1ZMj0tIFxsJ-vOkv) (2005) _Episode 1-8_
+- [Triumph of the Nerds: The Rise of Accidental Empires](https://en.wikipedia.org/wiki/Triumph_of_the_Nerds) (1996) - Not available online
+- [BBS The Documentary](https://www.youtube.com/playlist?list=PLgE-9Sxs2IBVgJkY-1ZMj0tIFxsJ-vOkv) (2005) - Episode 1-8
 - [Silicon Valley](http://www.pbs.org/wgbh/americanexperience/films/silicon/) (2013)
 
 ### Reflective interviews
 
-- [The Great 202 Jailbreak](https://www.youtube.com/watch?v=CVxeuwlvf8w) (2013) _David Brailsford_
-- [UNIX Special: Profs Kernighan & Brailsford](https://www.youtube.com/watch?v=vT_J6xc-Az0) (2015) _Brian Kernighan_
+- [The Great 202 Jailbreak](https://www.youtube.com/watch?v=CVxeuwlvf8w) (2013) - David Brailsford
+- [UNIX Special: Profs Kernighan & Brailsford](https://www.youtube.com/watch?v=vT_J6xc-Az0) (2015) - David Brailsford interviews Brian Kernighan
 
 ## Texts
 
@@ -33,7 +33,7 @@ An Awesome List of computer history videos and related folklore
 
 ### Announcements
 
-- [What would you like to see most in minix?](https://groups.google.com/forum/#!topic/comp.os.minix/dlNtH7RRrGA%5B1-25%5D) (1991) _Linux_
+- [What would you like to see most in minix?](https://groups.google.com/forum/#!topic/comp.os.minix/dlNtH7RRrGA%5B1-25%5D) (1991) - First public mention of what would later become Linux
 
 ## License
 
