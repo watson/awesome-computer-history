@@ -19,6 +19,7 @@ An Awesome List of computer history videos and related folklore
 ### Reflective interviews
 
 - [The Great 202 Jailbreak](https://www.youtube.com/watch?v=CVxeuwlvf8w) (2013) _David Brailsford_
+- [UNIX Special: Profs Kernighan & Brailsford](https://www.youtube.com/watch?v=vT_J6xc-Az0) (2015) _Brian Kernighan_
 
 ## Texts
 
