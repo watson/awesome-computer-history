@@ -4,14 +4,12 @@ An Awesome List of computer history videos and related folklore
 
 ## Videos
 
-Title | Year | Note
-------|------|-----
-[BBS The Documentary](https://www.youtube.com/playlist?list=PLgE-9Sxs2IBVgJkY-1ZMj0tIFxsJ-vOkv) | 2005 | Episode 1-8
-[The UNIX System: Making Computers More Productive](https://www.youtube.com/watch?v=tc4ROCJYbm0) | 1982 |
-[The UNIX System: Making Computers Easier to Use](https://www.youtube.com/watch?v=XvDZLjaCJuw) | 1982 |
-[Erlang: The Movie](https://www.youtube.com/watch?v=xrIjfIjssLE) | 1990 |
-[The Mother of All Demos](https://www.youtube.com/watch?v=yJDv-zdhzMY) | 1968 |
-[Triumph of the Nerds: The Rise of Accidental Empires](https://en.wikipedia.org/wiki/Triumph_of_the_Nerds) | 1996 | 
+- [BBS The Documentary](https://www.youtube.com/playlist?list=PLgE-9Sxs2IBVgJkY-1ZMj0tIFxsJ-vOkv) (2005) Episode 1-8
+- [The UNIX System: Making Computers More Productive](https://www.youtube.com/watch?v=tc4ROCJYbm0) (1982)
+- [The UNIX System: Making Computers Easier to Use](https://www.youtube.com/watch?v=XvDZLjaCJuw) (1982)
+- [Erlang: The Movie](https://www.youtube.com/watch?v=xrIjfIjssLE) (1990)
+- [The Mother of All Demos](https://www.youtube.com/watch?v=yJDv-zdhzMY) (1968)
+- [Triumph of the Nerds: The Rise of Accidental Empires](https://en.wikipedia.org/wiki/Triumph_of_the_Nerds) (1996) 
 
 ## Folklore texts
 
