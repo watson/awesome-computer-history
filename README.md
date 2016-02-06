@@ -40,6 +40,10 @@ An Awesome List of computer history videos, documentaries and related folklore
 - [The Great 202 Jailbreak](https://www.youtube.com/watch?v=CVxeuwlvf8w) (2013) - David Brailsford
 - [UNIX Special: Profs Kernighan & Brailsford](https://www.youtube.com/watch?v=vT_J6xc-Az0) (2015) - David Brailsford interviews Brian Kernighan
 
+### Talks
+
+- [Crockford on JavaScript - Volume 1: The Early Years](https://www.youtube.com/watch?v=JxAXlJEmNMg) (2011) - Not actually about JavaScript, but about early computing history
+
 ### Movies
 
 _Dramatized versions of real events_
