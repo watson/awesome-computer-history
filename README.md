@@ -6,7 +6,7 @@ An Awesome List of computer history videos and related folklore
 
 - [Videos](#videos)
   - [Old recordings](#old-recordings)
-  - [Documntaries](#documentaries)
+  - [Documentaries](#documentaries)
   - [Reflective interviews](#reflective-interviews)
   - [Movies](#movies)
 - [Texts](#texts)
