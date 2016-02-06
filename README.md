@@ -11,6 +11,7 @@ An Awesome List of computer history videos and related folklore
 - [The UNIX System: Making Computers Easier to Use](https://www.youtube.com/watch?v=XvDZLjaCJuw) (1982)
 - [The Computer Chronicles](https://www.youtube.com/channel/UCkJ6eQKpHZgsZBla4JgKj3A) (1983-2002) - All episodes. A few of the most notable episodes are:
   - [The Computer Chronicles - Simulator Software](https://www.youtube.com/watch?v=ZVZiureyV-s) (1983)
+  - [The Computer Chronicles - Artificial Intelligence](https://www.youtube.com/watch?v=7Uz3HYfCIGc) (1985)
 - [Erlang: The Movie](https://www.youtube.com/watch?v=xrIjfIjssLE) (1990)
 
 ### Documentaries
