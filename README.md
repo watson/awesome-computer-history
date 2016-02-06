@@ -33,6 +33,10 @@ An Awesome List of computer history videos and related folklore
 - [Unix Recovery Legend](http://www.ee.ryerson.ca/~elf/hack/recovery.html) (1986)
 - [UTF-8 history](http://www.cl.cam.ac.uk/~mgk25/ucs/utf-8-history.txt) (2003)
 
+### Books
+
+- [The Art of Unix Programming](http://catb.org/esr/writings/taoup/html/) (2003) - First edition released in 1999
+
 ### Announcements
 
 - [What would you like to see most in minix?](https://groups.google.com/forum/#!topic/comp.os.minix/dlNtH7RRrGA%5B1-25%5D) (1991) - First public mention of what would later become Linux
