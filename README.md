@@ -2,7 +2,7 @@
 
 A curated list of computer history videos, documentaries and related folklore. Inspired by the [awesome list thing](https://github.com/sindresorhus/awesome).
 
-Check out my [blog](https://medium.com/@wa7son) and say _hi_ on [Twitter](https://twitter.com/wa7son).
+Check out my [blog](https://medium.com/@wa7son) or say _hi_ on [Twitter](https://twitter.com/wa7son).
 
 ## Table of Contents
 
