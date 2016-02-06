@@ -24,3 +24,4 @@ An Awesome List of computer history videos and related folklore
 
 - [Unix Recovery Legend](http://www.ee.ryerson.ca/~elf/hack/recovery.html) (1986)
 - [The Story of Mel](http://www.catb.org/jargon/html/story-of-mel.html) (1983)
+- [Real Programmers Don't Use PASCAL](http://web.mit.edu/humor/Computers/real.programmers) (1982)
