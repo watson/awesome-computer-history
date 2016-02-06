@@ -15,7 +15,7 @@ A curated list of computer history videos, documentaries and related folklore ma
 - [Texts](#texts)
   - [Folklore](#folklore)
   - [Announcements](#announcements)
-  - [Source Code](#source-code)
+- [Source Code](#source-code)
 - [License](#license)
 
 ## Videos
@@ -70,7 +70,7 @@ _Dramatized versions of real events_
 
 - [What would you like to see most in minix?](https://groups.google.com/forum/#!topic/comp.os.minix/dlNtH7RRrGA%5B1-25%5D) (1991) - First public mention of what would later become Linux
 
-### Source Code
+## Source Code
 
 - [UNIX](https://github.com/dspinellis/unix-history-repo/tree/Research-Release) (1972) - Continuous Unix commit history from 1972 until today
 
