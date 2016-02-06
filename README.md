@@ -1,10 +1,8 @@
 # Awesome Computer History [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of computer history videos, documentaries and related folklore. Inspired by the [awesome list thing](https://github.com/sindresorhus/awesome).
+A curated list of computer history videos, documentaries and related folklore maintained by [Thomas Watson](https://twitter.com/wa7son). Inspired by the [awesome list thing](https://github.com/sindresorhus/awesome).
 
 [Pull Requests](https://github.com/watson/awesome-computer-history/edit/master/README.md) are welcome.
-
-Also, check out my [blog](https://medium.com/@wa7son) or say _hi_ on [Twitter](https://twitter.com/wa7son).
 
 ## Table of Contents
 
