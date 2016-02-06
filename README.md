@@ -65,6 +65,7 @@ _Dramatized versions of real events_
 - [Real Programmers Don't Use PASCAL](http://web.mit.edu/humor/Computers/real.programmers) (1982)
 - [The Story of Mel](http://www.catb.org/jargon/html/story-of-mel.html) (1983)
 - [Unix Recovery Legend](http://www.ee.ryerson.ca/~elf/hack/recovery.html) (1986)
+- [The Jargon File](http://www.dourish.com/goodies/jargon.html) (1988)
 - [UTF-8 history](http://www.cl.cam.ac.uk/~mgk25/ucs/utf-8-history.txt) (2003)
 
 ### Announcements
