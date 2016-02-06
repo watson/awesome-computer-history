@@ -44,6 +44,7 @@ An Awesome List of computer history videos, documentaries and related folklore
 ### Talks
 
 - [Crockford on JavaScript - Volume 1: The Early Years](https://www.youtube.com/watch?v=JxAXlJEmNMg) (2011) - Not actually about JavaScript, but about early computing history
+- [Bret Victor - The Future of Programming]() (2013..ehh 1973) - Humorous talk about the future of programming as seen from 1973
 
 ### Movies
 
