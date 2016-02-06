@@ -2,6 +2,19 @@
 
 An Awesome List of computer history videos and related folklore
 
+**Table of Contents**
+
+- [Videos](#videos)
+  - [Old recordings](#old-recordings)
+  - [Documntaries](#documentaries)
+  - [Reflective interviews](#reflective-interviews)
+  - [Movies](#movies)
+- [Texts](#texts)
+  - [Folklore](#folklore)
+  - [Books](#books)
+  - [Announcements](#announcements)
+- [License](#license)
+
 ## Videos
 
 ### Old recordings
