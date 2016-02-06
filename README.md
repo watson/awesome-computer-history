@@ -30,6 +30,8 @@ A curated list of computer history videos, documentaries and related folklore ma
   - [Simulator Software](https://www.youtube.com/watch?v=ZVZiureyV-s) (1983)
   - [Artificial Intelligence](https://www.youtube.com/watch?v=7Uz3HYfCIGc) (1985)
 - [Erlang: The Movie](https://www.youtube.com/watch?v=xrIjfIjssLE) (1990)
+- [Hackers The History Of Hacking: Phone Phreaking, Cap.Crunch, Wozniak, Mitnick](ihttps://www.youtube.com/watch?v=FufYSx2_6Bg)
+- [Birth of BASIC](https://www.youtube.com/watch?v=WYPNjSoDrqw) (2014)
 
 ### Documentaries
 
