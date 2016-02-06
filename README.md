@@ -8,6 +8,7 @@ An Awesome List of computer history videos, documentaries and related folklore
   - [Old recordings](#old-recordings)
   - [Documentaries](#documentaries)
   - [Reflective interviews](#reflective-interviews)
+  - [Talks](#talks)
   - [Movies](#movies)
 - [Texts](#texts)
   - [Folklore](#folklore)
