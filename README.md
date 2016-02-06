@@ -40,7 +40,7 @@ Also, check out my [blog](https://medium.com/@wa7son) or say _hi_ on [Twitter](h
 - [The Secret History Of Hacking](https://www.youtube.com/watch?v=PUf1d-GuK0Q) (2001) - History of early hackers
 - [BBS The Documentary](https://www.youtube.com/playlist?list=PLgE-9Sxs2IBVgJkY-1ZMj0tIFxsJ-vOkv) (2005) - History of the Bulletin Board System (Episode 1-8)
 - [Something Ventured](http://www.imdb.com/title/tt1737747/) (2011) - The history of early venture capital
-- [Silicon Valley](http://www.pbs.org/wgbh/americanexperience/films/silicon/) (2013) - PBS documentary about the start of Silicon Valley 
+- [Silicon Valley](http://www.pbs.org/wgbh/americanexperience/films/silicon/) (2013) - A PBS "American Experience" documentary about the start of Silicon Valley 
 
 ### Reflective interviews
 
