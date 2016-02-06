@@ -20,8 +20,14 @@ An Awesome List of computer history videos and related folklore
 
 - [The Great 202 Jailbreak](https://www.youtube.com/watch?v=CVxeuwlvf8w) (2013) _David Brailsford_
 
-## Folklore texts
+## Texts
+
+### Folklore
 
 - [Unix Recovery Legend](http://www.ee.ryerson.ca/~elf/hack/recovery.html) (1986)
 - [The Story of Mel](http://www.catb.org/jargon/html/story-of-mel.html) (1983)
 - [Real Programmers Don't Use PASCAL](http://web.mit.edu/humor/Computers/real.programmers) (1982)
+
+### Announcements
+
+- [What would you like to see most in minix?](https://groups.google.com/forum/#!topic/comp.os.minix/dlNtH7RRrGA%5B1-25%5D) (1991) _Linux_
