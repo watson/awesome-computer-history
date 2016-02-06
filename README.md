@@ -11,6 +11,7 @@ Title | Year | Note
 [The UNIX System: Making Computers Easier to Use](https://www.youtube.com/watch?v=XvDZLjaCJuw) | 1982 |
 [Erlang: The Movie](https://www.youtube.com/watch?v=xrIjfIjssLE) | 1990 |
 [The Mother of All Demos](https://www.youtube.com/watch?v=yJDv-zdhzMY) | 1968 |
+[Triumph of the Nerds: The Rise of Accidental Empires](https://en.wikipedia.org/wiki/Triumph_of_the_Nerds) | 1996 | 
 
 ## Folklore texts
 
