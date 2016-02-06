@@ -16,3 +16,4 @@ Title | Year | Note
 ## Folklore texts
 
 - [Unix Recovery Legend](http://www.ee.ryerson.ca/~elf/hack/recovery.html) (1986)
+- [The Story of Mel](http://www.catb.org/jargon/html/story-of-mel.html) (1983)
