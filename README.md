@@ -34,13 +34,13 @@ Also, check out my [blog](https://medium.com/@wa7son) or say _hi_ on [Twitter](h
 
 ### Documentaries
 
-- [Triumph of the Nerds: The Rise of Accidental Empires](https://en.wikipedia.org/wiki/Triumph_of_the_Nerds) (1996) - History of the personal computer
-- [Code Rush](https://www.youtube.com/watch?v=4Q7FTjhvZ7Y) (2000) - The story of Netscape and the birth of Mozilla
-- [Revolution OS](https://www.youtube.com/watch?v=jw8K460vx1c) (2001) - The story of GNU/linux and Open Source Movement
-- [The Secret History Of Hacking](https://www.youtube.com/watch?v=PUf1d-GuK0Q) (2001) - History of early hackers
-- [BBS The Documentary](https://www.youtube.com/playlist?list=PLgE-9Sxs2IBVgJkY-1ZMj0tIFxsJ-vOkv) (2005) - History of the Bulletin Board System (Episode 1-8)
-- [Something Ventured](http://www.imdb.com/title/tt1737747/) (2011) - The history of early venture capital
-- [Silicon Valley](http://www.pbs.org/wgbh/americanexperience/films/silicon/) (2013) - A PBS "American Experience" documentary about the start of Silicon Valley 
+- [Triumph of the Nerds: The Rise of Accidental Empires](https://en.wikipedia.org/wiki/Triumph_of_the_Nerds) (1996) - History of the personal computer <sup>[8.5/10](http://www.imdb.com/title/tt0115398/)</sup>
+- [Code Rush](https://www.youtube.com/watch?v=4Q7FTjhvZ7Y) (2000) - The story of Netscape and the birth of Mozilla <sup>[7.3/10](http://www.imdb.com/title/tt0499004/)</sup>
+- [Revolution OS](https://www.youtube.com/watch?v=jw8K460vx1c) (2001) - The story of GNU/linux and Open Source Movement <sup>[7.3/10](http://www.imdb.com/title/tt0308808/)</sup>
+- [The Secret History Of Hacking](https://www.youtube.com/watch?v=PUf1d-GuK0Q) (2001) - History of early hackers <sup>[7.5/10](http://www.imdb.com/title/tt2335921/)</sup>
+- [BBS The Documentary](https://www.youtube.com/playlist?list=PLgE-9Sxs2IBVgJkY-1ZMj0tIFxsJ-vOkv) (2005) - History of the Bulletin Board System <sup>[8.6/10](http://www.imdb.com/title/tt0460402/)</sup>
+- [Something Ventured](http://www.imdb.com/title/tt1737747/) (2011) - The history of early venture capital <sup>[7.0/10](http://www.imdb.com/title/tt1737747/)</sup>
+- [Silicon Valley](http://www.pbs.org/wgbh/americanexperience/films/silicon/) (2013) - A PBS "American Experience" documentary about the start of Silicon Valley <sup>[8.1/10](http://www.imdb.com/title/tt2547530/)</sup>
 
 ### Reflective interviews
 
@@ -56,8 +56,8 @@ Also, check out my [blog](https://medium.com/@wa7son) or say _hi_ on [Twitter](h
 
 _Dramatized versions of real events_
 
-- [Pirates of Silicon Valley](http://www.imdb.com/title/tt0168122/) (1999) - History of Apple and Microsoft
-- [Micro Men](https://www.youtube.com/watch?v=XXBxV6-zamM) (2009) - History of Acorn Computers and Sinclair Research
+- [Pirates of Silicon Valley](http://www.imdb.com/title/tt0168122/) (1999) - History of Apple and Microsoft <sup>[7.3/10](http://www.imdb.com/title/tt0168122/)</sup>
+- [Micro Men](https://www.youtube.com/watch?v=XXBxV6-zamM) (2009) - History of Acorn Computers and Sinclair Research <sup>[7.6/10](http://www.imdb.com/title/tt1459467/)</sup>
 
 ## Texts
 
