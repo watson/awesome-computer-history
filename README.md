@@ -34,13 +34,13 @@ Also, check out my [blog](https://medium.com/@wa7son) or say _hi_ on [Twitter](h
 
 ### Documentaries
 
-- [Triumph of the Nerds: The Rise of Accidental Empires](https://en.wikipedia.org/wiki/Triumph_of_the_Nerds) (1996) - Not available online
+- [Triumph of the Nerds: The Rise of Accidental Empires](https://en.wikipedia.org/wiki/Triumph_of_the_Nerds) (1996) - History of the personal computer
 - [Code Rush](https://www.youtube.com/watch?v=4Q7FTjhvZ7Y) (2000) - The story of Netscape and the birth of Mozilla
 - [Revolution OS](https://www.youtube.com/watch?v=jw8K460vx1c) (2001) - The story of GNU/linux and Open Source Movement
 - [The Secret History Of Hacking](https://www.youtube.com/watch?v=PUf1d-GuK0Q) (2001) - History of early hackers
-- [BBS The Documentary](https://www.youtube.com/playlist?list=PLgE-9Sxs2IBVgJkY-1ZMj0tIFxsJ-vOkv) (2005) - Episode 1-8
+- [BBS The Documentary](https://www.youtube.com/playlist?list=PLgE-9Sxs2IBVgJkY-1ZMj0tIFxsJ-vOkv) (2005) - History of the Bulletin Board System (Episode 1-8)
 - [Something Ventured](http://www.imdb.com/title/tt1737747/) (2011) - The history of early venture capital
-- [Silicon Valley](http://www.pbs.org/wgbh/americanexperience/films/silicon/) (2013) - Not available online
+- [Silicon Valley](http://www.pbs.org/wgbh/americanexperience/films/silicon/) (2013) - PBS documentary about the start of Silicon Valley 
 
 ### Reflective interviews
 
