@@ -1,8 +1,10 @@
 # Awesome Computer History [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-An Awesome List of computer history videos, documentaries and related folklore
+A curated list of computer history videos, documentaries and related folklore. Inspired by the [awesome list thing](https://github.com/sindresorhus/awesome).
 
-**Table of Contents**
+Check out my [blog](https://medium.com/@wa7son) and say _hi_ on [Twitter](https://twitter.com/wa7son).
+
+## Table of Contents
 
 - [Videos](#videos)
   - [Old recordings](#old-recordings)
@@ -73,3 +75,5 @@ _Dramatized versions of real events_
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Thomas Watson](https://github.com/watson) has waived all copyright and related or neighboring rights to this work.
