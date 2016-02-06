@@ -6,15 +6,15 @@ An Awesome List of computer history videos and related folklore
 
 ### Old recordings
 
+- [The Mother of All Demos](https://www.youtube.com/watch?v=yJDv-zdhzMY) (1968)
 - [The UNIX System: Making Computers More Productive](https://www.youtube.com/watch?v=tc4ROCJYbm0) (1982)
 - [The UNIX System: Making Computers Easier to Use](https://www.youtube.com/watch?v=XvDZLjaCJuw) (1982)
 - [Erlang: The Movie](https://www.youtube.com/watch?v=xrIjfIjssLE) (1990)
-- [The Mother of All Demos](https://www.youtube.com/watch?v=yJDv-zdhzMY) (1968)
 
 ### Documentaries
 
-- [BBS The Documentary](https://www.youtube.com/playlist?list=PLgE-9Sxs2IBVgJkY-1ZMj0tIFxsJ-vOkv) (2005) _Episode 1-8_
 - [Triumph of the Nerds: The Rise of Accidental Empires](https://en.wikipedia.org/wiki/Triumph_of_the_Nerds) (1996) _No video online_
+- [BBS The Documentary](https://www.youtube.com/playlist?list=PLgE-9Sxs2IBVgJkY-1ZMj0tIFxsJ-vOkv) (2005) _Episode 1-8_
 
 ### Reflective interviews
 
@@ -25,9 +25,9 @@ An Awesome List of computer history videos and related folklore
 
 ### Folklore
 
-- [Unix Recovery Legend](http://www.ee.ryerson.ca/~elf/hack/recovery.html) (1986)
-- [The Story of Mel](http://www.catb.org/jargon/html/story-of-mel.html) (1983)
 - [Real Programmers Don't Use PASCAL](http://web.mit.edu/humor/Computers/real.programmers) (1982)
+- [The Story of Mel](http://www.catb.org/jargon/html/story-of-mel.html) (1983)
+- [Unix Recovery Legend](http://www.ee.ryerson.ca/~elf/hack/recovery.html) (1986)
 
 ### Announcements
 
