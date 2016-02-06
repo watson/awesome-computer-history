@@ -38,6 +38,7 @@ Also, check out my [blog](https://medium.com/@wa7son) or say _hi_ on [Twitter](h
 - [Code Rush](https://www.youtube.com/watch?v=4Q7FTjhvZ7Y) (2000) - The story of Netscape and the birth of Mozilla
 - [The Secret History Of Hacking](https://www.youtube.com/watch?v=PUf1d-GuK0Q) (2001) - History of early hackers 
 - [BBS The Documentary](https://www.youtube.com/playlist?list=PLgE-9Sxs2IBVgJkY-1ZMj0tIFxsJ-vOkv) (2005) - Episode 1-8
+- [Something Ventured](http://www.imdb.com/title/tt1737747/) (2011) - The history of early venture capital
 - [Silicon Valley](http://www.pbs.org/wgbh/americanexperience/films/silicon/) (2013) - Not available online
 
 ### Reflective interviews
