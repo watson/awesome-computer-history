@@ -14,7 +14,7 @@ An Awesome List of computer history videos and related folklore
 ### Documentaries
 
 - [BBS The Documentary](https://www.youtube.com/playlist?list=PLgE-9Sxs2IBVgJkY-1ZMj0tIFxsJ-vOkv) (2005) _Episode 1-8_
-- [Triumph of the Nerds: The Rise of Accidental Empires](https://en.wikipedia.org/wiki/Triumph_of_the_Nerds) (1996) 
+- [Triumph of the Nerds: The Rise of Accidental Empires](https://en.wikipedia.org/wiki/Triumph_of_the_Nerds) (1996) _No video online_
 
 ### Reflective interviews
 
