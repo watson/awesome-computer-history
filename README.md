@@ -1,6 +1,6 @@
 # Awesome Computer History [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-An Awesome List of computer history videos and related folklore
+An Awesome List of computer history videos, documentaries and related folklore
 
 **Table of Contents**
 
