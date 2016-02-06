@@ -18,7 +18,7 @@ An Awesome List of computer history videos and related folklore
 
 ### Reflective interviews
 
-- [The Great 202 Jailbreak](https://www.youtube.com/watch?v=CVxeuwlvf8w)
+- [The Great 202 Jailbreak](https://www.youtube.com/watch?v=CVxeuwlvf8w) (2013) _David Brailsford_
 
 ## Folklore texts
 
