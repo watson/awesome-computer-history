@@ -14,7 +14,6 @@ A curated list of computer history videos, documentaries and related folklore ma
   - [Movies](#movies)
 - [Texts](#texts)
   - [Folklore](#folklore)
-  - [Books](#books)
   - [Announcements](#announcements)
   - [Source Code](#source-code)
 - [License](#license)
@@ -66,10 +65,6 @@ _Dramatized versions of real events_
 - [The Story of Mel](http://www.catb.org/jargon/html/story-of-mel.html) (1983)
 - [Unix Recovery Legend](http://www.ee.ryerson.ca/~elf/hack/recovery.html) (1986)
 - [UTF-8 history](http://www.cl.cam.ac.uk/~mgk25/ucs/utf-8-history.txt) (2003)
-
-### Books
-
-- [The Art of Unix Programming](http://catb.org/esr/writings/taoup/html/) (2003) - First edition released in 1999
 
 ### Announcements
 
