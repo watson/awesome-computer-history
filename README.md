@@ -63,6 +63,7 @@ _Dramatized versions of real events_
 ### Folklore
 
 - [Real Programmers Don't Use PASCAL](http://web.mit.edu/humor/Computers/real.programmers) (1982)
+- [Epigrams on Programming](http://www.cs.yale.edu/homes/perlis-alan/quotes.html) (1982)
 - [The Story of Mel](http://www.catb.org/jargon/html/story-of-mel.html) (1983)
 - [Unix Recovery Legend](http://www.ee.ryerson.ca/~elf/hack/recovery.html) (1986)
 - [The Jargon File](http://www.dourish.com/goodies/jargon.html) (1988)
