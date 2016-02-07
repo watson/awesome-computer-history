@@ -41,6 +41,7 @@ A curated list of computer history videos, documentaries and related folklore ma
 - [BBS The Documentary](https://www.youtube.com/playlist?list=PLgE-9Sxs2IBVgJkY-1ZMj0tIFxsJ-vOkv) (2005) - History of the Bulletin Board System <sup>[8.6/10](http://www.imdb.com/title/tt0460402/)</sup>
 - [Something Ventured](http://www.imdb.com/title/tt1737747/) (2011) - The history of early venture capital <sup>[7.0/10](http://www.imdb.com/title/tt1737747/)</sup>
 - [Silicon Valley](http://www.pbs.org/wgbh/americanexperience/films/silicon/) (2013) - A PBS "American Experience" documentary about the start of Silicon Valley <sup>[8.1/10](http://www.imdb.com/title/tt2547530/)</sup>
+- [Birth of BASIC](https://www.youtube.com/watch?v=WYPNjSoDrqw) (2014) - Invention of the Basic computer language.
 
 ### Reflective interviews
 
