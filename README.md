@@ -33,6 +33,7 @@ A curated list of computer history videos, documentaries and related folklore ma
 
 ### Documentaries
 
+- [The KGB, the Computer, and Me](https://www.youtube.com/watch?v=EcKxaq1FTac) (1990) - With computer scientist Clifford Stoll <sup>[8.3/10](http://www.imdb.com/title/tt0308449/)</sup>
 - [Triumph of the Nerds: The Rise of Accidental Empires](https://en.wikipedia.org/wiki/Triumph_of_the_Nerds) (1996) - History of the personal computer <sup>[8.5/10](http://www.imdb.com/title/tt0115398/)</sup>
 - [Code Rush](https://www.youtube.com/watch?v=4Q7FTjhvZ7Y) (2000) - The story of Netscape and the birth of Mozilla <sup>[7.3/10](http://www.imdb.com/title/tt0499004/)</sup>
 - [Revolution OS](https://www.youtube.com/watch?v=jw8K460vx1c) (2001) - The story of GNU/linux and Open Source Movement <sup>[7.3/10](http://www.imdb.com/title/tt0308808/)</sup>
