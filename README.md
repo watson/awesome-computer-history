@@ -69,6 +69,7 @@ _Dramatized versions of real events_
 - [The Story of Mel](http://www.catb.org/jargon/html/story-of-mel.html) (1983)
 - [Unix Recovery Legend](http://www.ee.ryerson.ca/~elf/hack/recovery.html) (1986)
 - [The Jargon File](http://www.dourish.com/goodies/jargon.html) (1988)
+- [In the Beginning…Was the Command Line](http://www.cryptonomicon.com/beginning.html) (1999)
 - [UTF-8 history](http://www.cl.cam.ac.uk/~mgk25/ucs/utf-8-history.txt) (2003)
 
 ### Announcements
