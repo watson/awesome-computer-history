@@ -13,7 +13,8 @@ Please ensure your pull request adheres to the following guidelines:
 - Make an individual pull request for each suggestion
 - Use the original title of the video/text where possible (e.g. "Code Rush" instead of "Documentary of Netscape and Mozilla")
 - Include the original publication year
-- Use the following format: `[Title](link) (publication year) - optional title`
+- If you like, feel free to include a **short** description. Please keep it **short** simmilar to the other descriptions on the list
+- Use the following format: `[Title](link) (publication year) - optional description`
 - If an [IMDb](http://www.imdb.com) rating exists for a given video, include it at the very end of the line using the format: ` <sup>[rating/10](link)</sup>`
 - Link additions should be added in chronological order of the relevant category
 - New categories or improvements to the existing categorization are welcome
