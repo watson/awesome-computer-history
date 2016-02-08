@@ -30,7 +30,9 @@ A curated list of computer history videos, documentaries and related folklore ma
   - [Simulator Software](https://www.youtube.com/watch?v=ZVZiureyV-s) (1983)
   - [Artificial Intelligence](https://www.youtube.com/watch?v=7Uz3HYfCIGc) (1985)
 - [Erlang: The Movie](https://www.youtube.com/watch?v=xrIjfIjssLE) (1990)
-- [Politics on the Web](https://archive.org/details/nc103_cyberpolitics) (1996) Institute for Global Communications web site which includes links to PeaceNet, EcoNet, ConflictNet, LaborNet, and WomensNet. Eric Hughes, founder of Cypherpunks, a group working to preserve privacy on the net through encryption, explains the Cypherpunks Manifesto. Jory Bell demonstrates the Anarchists Press web site, akpress.org. Shot on location at the CyberSmith internet cafe in Palo Alto, California. Hosts are Jane Wither, Andrew deVries, and Stewart Cheifet. 28m.
+- [Net Cafe](https://archive.org/details/netcafe) (1996-2002) - All episodes. A few of the notable episodes are:
+  - [Politics on the Web](https://archive.org/details/nc103_cyberpolitics) (1996) - Institute for Global Communications, Cyperpunks and Anarchists Press
+  - [Hackers](https://archive.org/details/nc101_hackers) (1996) - Looks at the hacker culture and their influence on the early growth of the internet
 
 ### Documentaries
 
