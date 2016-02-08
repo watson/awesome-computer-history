@@ -31,8 +31,8 @@ A curated list of computer history videos, documentaries and related folklore ma
   - [Artificial Intelligence](https://www.youtube.com/watch?v=7Uz3HYfCIGc) (1985)
 - [Erlang: The Movie](https://www.youtube.com/watch?v=xrIjfIjssLE) (1990)
 - [Net Cafe](https://archive.org/details/netcafe) (1996-2002) - All episodes. A few of the notable episodes are:
-  - [Politics on the Web](https://archive.org/details/nc103_cyberpolitics) (1996) - Institute for Global Communications, Cyperpunks and Anarchists Press
   - [Hackers](https://archive.org/details/nc101_hackers) (1996) - Looks at the hacker culture and their influence on the early growth of the internet
+  - [Politics on the Web](https://archive.org/details/nc103_cyberpolitics) (1996) - Institute for Global Communications, Cyperpunks and Anarchists Press
 
 ### Documentaries
 
