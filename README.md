@@ -45,6 +45,7 @@ A curated list of computer history videos, documentaries and related folklore ma
 - [Something Ventured](http://www.imdb.com/title/tt1737747/) (2011) - The history of early venture capital <sup>[7.0/10](http://www.imdb.com/title/tt1737747/)</sup>
 - [Silicon Valley](http://www.pbs.org/wgbh/americanexperience/films/silicon/) (2013) - A PBS "American Experience" documentary about the start of Silicon Valley <sup>[8.1/10](http://www.imdb.com/title/tt2547530/)</sup>
 - [Birth of BASIC](https://www.youtube.com/watch?v=WYPNjSoDrqw) (2014) - Invention of the Basic computer language.
+- [The Internet's Own Boy: The Story of Aaron Swartz](https://www.youtube.com/watch?v=vXr-2hwTk58) (2014) - The story of programming prodigy and information activist Aaron Swartz, who took his own life at the age of 26 <sup>[8.1/10](http://www.imdb.com/title/tt3268458/)</sup>
 
 ### Reflective interviews
 
