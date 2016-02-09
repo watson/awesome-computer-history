@@ -1,4 +1,4 @@
-# Awesome Computer History [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Computer History [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build status](https://travis-ci.org/watson/awesome-computer-history.svg?branch=master)](https://travis-ci.org/watson/awesome-computer-history)
 
 A curated list of computer history videos, documentaries and related folklore maintained by [Thomas Watson](https://twitter.com/wa7son). Inspired by the [awesome list thing](https://github.com/sindresorhus/awesome).
 
@@ -87,6 +87,6 @@ _Dramatized versions of real events_
 
 ## License
 
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Thomas Watson](https://github.com/watson) has waived all copyright and related or neighboring rights to this work.
