@@ -37,6 +37,7 @@ A curated list of computer history videos, documentaries and related folklore ma
 
 ### Documentaries
 
+- [Hackers: Wizards of the Electronic Age](https://www.youtube.com/watch?v=cVCLowi4v7w) (1984) - Documentary about a 1984 hacker conference <sup>[7.4/10](http://www.imdb.com/title/tt1191116/)</sup>
 - [The KGB, the Computer, and Me](https://www.youtube.com/watch?v=EcKxaq1FTac) (1990) - With computer scientist Clifford Stoll <sup>[8.3/10](http://www.imdb.com/title/tt0308449/)</sup>
 - [Triumph of the Nerds: The Rise of Accidental Empires](https://en.wikipedia.org/wiki/Triumph_of_the_Nerds) (1996) - History of the personal computer <sup>[8.5/10](http://www.imdb.com/title/tt0115398/)</sup>
 - [Code Rush](https://www.youtube.com/watch?v=4Q7FTjhvZ7Y) (2000) - The story of Netscape and the birth of Mozilla <sup>[7.3/10](http://www.imdb.com/title/tt0499004/)</sup>
@@ -47,7 +48,6 @@ A curated list of computer history videos, documentaries and related folklore ma
 - [Silicon Valley](http://www.pbs.org/wgbh/americanexperience/films/silicon/) (2013) - A PBS "American Experience" documentary about the start of Silicon Valley <sup>[8.1/10](http://www.imdb.com/title/tt2547530/)</sup>
 - [Birth of BASIC](https://www.youtube.com/watch?v=WYPNjSoDrqw) (2014) - Invention of the Basic computer language.
 - [The Internet's Own Boy: The Story of Aaron Swartz](https://www.youtube.com/watch?v=vXr-2hwTk58) (2014) - The story of programming prodigy and information activist Aaron Swartz <sup>[8.1/10](http://www.imdb.com/title/tt3268458/)</sup>
-- [Hackers: Wizards of the Electronic Age](https://www.youtube.com/watch?v=cVCLowi4v7w) (1984) - Documentary about a 1984 hacker conference <sup>[7.4/10](http://www.imdb.com/title/tt1191116/)</sup>
 
 ### Reflective interviews
 
