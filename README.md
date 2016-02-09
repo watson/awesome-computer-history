@@ -43,7 +43,7 @@ A curated list of computer history videos, documentaries and related folklore ma
 - [Revolution OS](https://www.youtube.com/watch?v=jw8K460vx1c) (2001) - The story of GNU/linux and Open Source Movement <sup>[7.3/10](http://www.imdb.com/title/tt0308808/)</sup>
 - [The Secret History Of Hacking](https://www.youtube.com/watch?v=PUf1d-GuK0Q) (2001) - History of early hackers <sup>[7.5/10](http://www.imdb.com/title/tt2335921/)</sup>
 - [BBS The Documentary](https://www.youtube.com/playlist?list=PLgE-9Sxs2IBVgJkY-1ZMj0tIFxsJ-vOkv) (2005) - History of the Bulletin Board System <sup>[8.6/10](http://www.imdb.com/title/tt0460402/)</sup>
-- [Hackers Are People Too ](https://www.youtube.com/watch?v=7jciIsuEZWM) (2008) <sup>[6.1/10](http://www.imdb.com/title/tt1279942/)/sup>
+- [Hackers Are People Too ](https://www.youtube.com/watch?v=7jciIsuEZWM) (2008) <sup>[6.1/10](http://www.imdb.com/title/tt1279942/)</sup>
 - [Something Ventured](http://www.imdb.com/title/tt1737747/) (2011) - The history of early venture capital <sup>[7.0/10](http://www.imdb.com/title/tt1737747/)</sup>
 - [The Codebreakers](https://www.youtube.com/watch?v=Zc-hlV2xbSg) (2011) - Documentary about how poor countries are using free and open source software (FOSS) for development purposes. <sup>[7.1/10](http://www.imdb.com/title/tt2119396/)</sup>
 - [Code 2600](https://www.youtube.com/watch?v=FAfUjqIbfXo) (2011) <sup>[7.6/10](http://www.imdb.com/title/tt1830538/)</sup>
@@ -55,14 +55,14 @@ A curated list of computer history videos, documentaries and related folklore ma
 
 ### Reflective interviews
 
-- [Steve Jobs - The Lost Interview](https://www.youtube.com/watch?v=TRZAJY23xio) (2012) <sup>(8.1/10)(http://www.imdb.com/title/tt2104994/)</sup>
+- [Steve Jobs - The Lost Interview](https://www.youtube.com/watch?v=TRZAJY23xio) (2012) <sup>[8.1/10](http://www.imdb.com/title/tt2104994/)</sup>
 - [The Great 202 Jailbreak](https://www.youtube.com/watch?v=CVxeuwlvf8w) (2013) - David Brailsford
 - [UNIX Special: Profs Kernighan & Brailsford](https://www.youtube.com/watch?v=vT_J6xc-Az0) (2015) - David Brailsford interviews Brian Kernighan
 
 
 ### Talks
 
--[The Origins of Linux - Linus Torvalds](https://www.youtube.com/watch?v=WVTWCPoUt8w) (2009) - Linus Torvalds tells the story of how he went from writing code as a graduate student to become an icon for open source software.
+- [The Origins of Linux - Linus Torvalds](https://www.youtube.com/watch?v=WVTWCPoUt8w) (2009) - Linus Torvalds tells the story of how he went from writing code as a graduate student to become an icon for open source software.
 - [Crockford on JavaScript - Volume 1: The Early Years](https://www.youtube.com/watch?v=JxAXlJEmNMg) (2011) - Not actually about JavaScript, but about early computing history
 - [Bret Victor - The Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4) (2013..ehh 1973) - Humorous talk about the future of programming as seen from 1973
 
