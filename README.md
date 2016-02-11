@@ -88,6 +88,7 @@ _Dramatized versions of real events_
 - [Unix Recovery Legend](http://www.ee.ryerson.ca/~elf/hack/recovery.html) (1986)
 - [The Conscience of a Hacker](http://phrack.org/issues/7/3.html) (1986) - The Hacker Manifesto
 - [The Jargon File](http://www.dourish.com/goodies/jargon.html) (1988)
+- [A Cypherpunk's Manifesto](https://w2.eff.org/Privacy/Crypto/Crypto_misc/cypherpunk.manifestol) (1993)
 - [In the Beginning…Was the Command Line](http://www.cryptonomicon.com/beginning.html) (1999)
 - [UTF-8 history](http://www.cl.cam.ac.uk/~mgk25/ucs/utf-8-history.txt) (2003)
 
