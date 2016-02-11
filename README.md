@@ -42,21 +42,30 @@ A curated list of computer history videos, documentaries and related folklore ma
 - [The KGB, the Computer, and Me](https://www.youtube.com/watch?v=EcKxaq1FTac) (1990) - With computer scientist Clifford Stoll <sup>[8.3/10](http://www.imdb.com/title/tt0308449/)</sup>
 - [Triumph of the Nerds: The Rise of Accidental Empires](https://en.wikipedia.org/wiki/Triumph_of_the_Nerds) (1996) - History of the personal computer <sup>[8.5/10](http://www.imdb.com/title/tt0115398/)</sup>
 - [Code Rush](https://www.youtube.com/watch?v=4Q7FTjhvZ7Y) (2000) - The story of Netscape and the birth of Mozilla <sup>[7.3/10](http://www.imdb.com/title/tt0499004/)</sup>
+- [The Code](https://www.youtube.com/watch?v=XMm0HsmOTFI) (2001) - The Histroy of Linux & FOSS <sup>[7.6/10](http://www.imdb.com/title/tt0315417/)</sup>
 - [Revolution OS](https://www.youtube.com/watch?v=jw8K460vx1c) (2001) - The story of GNU/linux and Open Source Movement <sup>[7.3/10](http://www.imdb.com/title/tt0308808/)</sup>
 - [The Secret History Of Hacking](https://www.youtube.com/watch?v=PUf1d-GuK0Q) (2001) - History of early hackers <sup>[7.5/10](http://www.imdb.com/title/tt2335921/)</sup>
 - [BBS The Documentary](https://www.youtube.com/playlist?list=PLgE-9Sxs2IBVgJkY-1ZMj0tIFxsJ-vOkv) (2005) - History of the Bulletin Board System <sup>[8.6/10](http://www.imdb.com/title/tt0460402/)</sup>
+- [The Codebreakers](https://www.youtube.com/watch?v=Zc-hlV2xbSg) (2006) - Documentary about how poor countries are using free and open source software (FOSS) for development purposes.
+- [Hackers Are People Too](https://www.youtube.com/watch?v=7jciIsuEZWM) (2008) <sup>[6.1/10](http://www.imdb.com/title/tt1279942/)</sup>
 - [Something Ventured](http://www.imdb.com/title/tt1737747/) (2011) - The history of early venture capital <sup>[7.0/10](http://www.imdb.com/title/tt1737747/)</sup>
+- [Code 2600](https://www.youtube.com/watch?v=FAfUjqIbfXo) (2011) <sup>[7.6/10](http://www.imdb.com/title/tt1830538/)</sup>
 - [Silicon Valley](http://www.pbs.org/wgbh/americanexperience/films/silicon/) (2013) - A PBS "American Experience" documentary about the start of Silicon Valley <sup>[8.1/10](http://www.imdb.com/title/tt2547530/)</sup>
+- [TPB AFK: The Pirate Bay Away From Keyboard](https://www.youtube.com/watch?v=eTOKXCEwo_8) (2013) <sup>[7.6/10](http://www.imdb.com/title/tt2608732/?ref_=fn_al_tt_1)</sup>
+- [DEFCON: The Documentary](https://www.youtube.com/watch?v=3ctQOmjQyYg) (2013) <sup>[5.6/10](http://www.imdb.com/title/tt3010462/)</sup>
 - [Birth of BASIC](https://www.youtube.com/watch?v=WYPNjSoDrqw) (2014) - Invention of the Basic computer language.
 - [The Internet's Own Boy: The Story of Aaron Swartz](https://www.youtube.com/watch?v=vXr-2hwTk58) (2014) - The story of programming prodigy and information activist Aaron Swartz <sup>[8.1/10](http://www.imdb.com/title/tt3268458/)</sup>
 
 ### Reflective interviews
 
+- [Steve Jobs - The Lost Interview](https://www.youtube.com/watch?v=TRZAJY23xio) (2012) <sup>[8.1/10](http://www.imdb.com/title/tt2104994/)</sup>
 - [The Great 202 Jailbreak](https://www.youtube.com/watch?v=CVxeuwlvf8w) (2013) - David Brailsford
 - [UNIX Special: Profs Kernighan & Brailsford](https://www.youtube.com/watch?v=vT_J6xc-Az0) (2015) - David Brailsford interviews Brian Kernighan
 
+
 ### Talks
 
+- [The Origins of Linux - Linus Torvalds](https://www.youtube.com/watch?v=WVTWCPoUt8w) (2001) - Linus Torvalds tells the story of how he went from writing code as a graduate student to become an icon for open source software.
 - [Crockford on JavaScript - Volume 1: The Early Years](https://www.youtube.com/watch?v=JxAXlJEmNMg) (2011) - Not actually about JavaScript, but about early computing history
 - [Bret Victor - The Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4) (2013..ehh 1973) - Humorous talk about the future of programming as seen from 1973
 
