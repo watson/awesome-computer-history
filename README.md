@@ -83,6 +83,7 @@ _Dramatized versions of real events_
 
 ### Folklore
 
+- [The Humble Programmer](https://www.cs.utexas.edu/users/EWD/ewd03xx/EWD340.PDF) (1972) - Dijkstra's overview of the programming universe as he saw it in 1972
 - [Real Programmers Don't Use PASCAL](http://web.mit.edu/humor/Computers/real.programmers) (1982)
 - [Epigrams on Programming](http://www.cs.yale.edu/homes/perlis-alan/quotes.html) (1982)
 - [The Story of Mel](http://www.catb.org/jargon/html/story-of-mel.html) (1983)
