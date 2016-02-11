@@ -48,19 +48,19 @@ A curated list of computer history videos, documentaries and related folklore ma
 - [The Secret History Of Hacking](https://www.youtube.com/watch?v=PUf1d-GuK0Q) (2001) - History of early hackers <sup>[7.5/10](http://www.imdb.com/title/tt2335921/)</sup>
 - [BBS The Documentary](https://www.youtube.com/playlist?list=PLgE-9Sxs2IBVgJkY-1ZMj0tIFxsJ-vOkv) (2005) - History of the Bulletin Board System <sup>[8.6/10](http://www.imdb.com/title/tt0460402/)</sup>
 - [The Codebreakers](https://www.youtube.com/watch?v=Zc-hlV2xbSg) (2006) - Documentary about how poor countries are using free and open source software (FOSS) for development purposes.
-- [Hackers Are People Too](https://www.youtube.com/watch?v=7jciIsuEZWM) (2008) <sup>[6.1/10](http://www.imdb.com/title/tt1279942/)</sup>
+- [Hackers Are People Too](https://www.youtube.com/watch?v=7jciIsuEZWM) (2008) - Documentary about what hackers are <sup>[6.1/10](http://www.imdb.com/title/tt1279942/)</sup>
 - [Something Ventured](http://www.imdb.com/title/tt1737747/) (2011) - The history of early venture capital <sup>[7.0/10](http://www.imdb.com/title/tt1737747/)</sup>
-- [Code 2600](https://www.youtube.com/watch?v=FAfUjqIbfXo) (2011) <sup>[7.6/10](http://www.imdb.com/title/tt1830538/)</sup>
+- [Code 2600](https://www.youtube.com/watch?v=FAfUjqIbfXo) (2011) - Documents the Info-Tech Age, told by the events and people who helped build and manipulate it <sup>[7.6/10](http://www.imdb.com/title/tt1830538/)</sup>
 - [Silicon Valley](http://www.pbs.org/wgbh/americanexperience/films/silicon/) (2013) - A PBS "American Experience" documentary about the start of Silicon Valley <sup>[8.1/10](http://www.imdb.com/title/tt2547530/)</sup>
 - [TPB AFK: The Pirate Bay Away From Keyboard](https://www.youtube.com/watch?v=eTOKXCEwo_8) (2013) <sup>[7.6/10](http://www.imdb.com/title/tt2608732/)</sup>
-- [DEFCON: The Documentary](https://www.youtube.com/watch?v=3ctQOmjQyYg) (2013) <sup>[5.6/10](http://www.imdb.com/title/tt3010462/)</sup>
+- [DEFCON: The Documentary](https://www.youtube.com/watch?v=3ctQOmjQyYg) (2013) - Documentary about DEFCON, the biggest hacker conference <sup>[5.6/10](http://www.imdb.com/title/tt3010462/)</sup>
 - [Birth of BASIC](https://www.youtube.com/watch?v=WYPNjSoDrqw) (2014) - Invention of the Basic computer language.
 - [The Internet's Own Boy: The Story of Aaron Swartz](https://www.youtube.com/watch?v=vXr-2hwTk58) (2014) - The story of programming prodigy and information activist Aaron Swartz <sup>[8.1/10](http://www.imdb.com/title/tt3268458/)</sup>
 - [Rise of the Hackers](https://www.youtube.com/watch?v=dQnAEiGx1-4) (2014) - Harnessing cryptography to stay a step ahead of cybercriminals <sup>[7.8/10](http://www.imdb.com/title/tt3979842/)</sup>
 
 ### Reflective interviews
 
-- [Steve Jobs - The Lost Interview](https://www.youtube.com/watch?v=TRZAJY23xio) (2012) <sup>[8.1/10](http://www.imdb.com/title/tt2104994/)</sup>
+- [Steve Jobs - The Lost Interview](https://www.youtube.com/watch?v=TRZAJY23xio) (2012) - A conversation with Steve Jobs as he was running NeXT, the company he had founded after leaving Apple <sup>[8.1/10](http://www.imdb.com/title/tt2104994/)</sup>
 - [The Great 202 Jailbreak](https://www.youtube.com/watch?v=CVxeuwlvf8w) (2013) - David Brailsford
 - [UNIX Special: Profs Kernighan & Brailsford](https://www.youtube.com/watch?v=vT_J6xc-Az0) (2015) - David Brailsford interviews Brian Kernighan
 
