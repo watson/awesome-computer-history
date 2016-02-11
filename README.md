@@ -51,7 +51,7 @@ A curated list of computer history videos, documentaries and related folklore ma
 - [Something Ventured](http://www.imdb.com/title/tt1737747/) (2011) - The history of early venture capital <sup>[7.0/10](http://www.imdb.com/title/tt1737747/)</sup>
 - [Code 2600](https://www.youtube.com/watch?v=FAfUjqIbfXo) (2011) <sup>[7.6/10](http://www.imdb.com/title/tt1830538/)</sup>
 - [Silicon Valley](http://www.pbs.org/wgbh/americanexperience/films/silicon/) (2013) - A PBS "American Experience" documentary about the start of Silicon Valley <sup>[8.1/10](http://www.imdb.com/title/tt2547530/)</sup>
-- [TPB AFK: The Pirate Bay Away From Keyboard](https://www.youtube.com/watch?v=eTOKXCEwo_8) (2013) <sup>[7.6/10](http://www.imdb.com/title/tt2608732/?ref_=fn_al_tt_1)</sup>
+- [TPB AFK: The Pirate Bay Away From Keyboard](https://www.youtube.com/watch?v=eTOKXCEwo_8) (2013) <sup>[7.6/10](http://www.imdb.com/title/tt2608732/)</sup>
 - [DEFCON: The Documentary](https://www.youtube.com/watch?v=3ctQOmjQyYg) (2013) <sup>[5.6/10](http://www.imdb.com/title/tt3010462/)</sup>
 - [Birth of BASIC](https://www.youtube.com/watch?v=WYPNjSoDrqw) (2014) - Invention of the Basic computer language.
 - [The Internet's Own Boy: The Story of Aaron Swartz](https://www.youtube.com/watch?v=vXr-2hwTk58) (2014) - The story of programming prodigy and information activist Aaron Swartz <sup>[8.1/10](http://www.imdb.com/title/tt3268458/)</sup>
