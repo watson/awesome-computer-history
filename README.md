@@ -64,7 +64,6 @@ A curated list of computer history videos, documentaries and related folklore ma
 - [The Great 202 Jailbreak](https://www.youtube.com/watch?v=CVxeuwlvf8w) (2013) - David Brailsford
 - [UNIX Special: Profs Kernighan & Brailsford](https://www.youtube.com/watch?v=vT_J6xc-Az0) (2015) - David Brailsford interviews Brian Kernighan
 
-
 ### Talks
 
 - [Computers From The Inside Out](https://www.youtube.com/watch?v=EKWGGDXe5MA) (1985) - Richard Feynman Computer Heuristics Lecture. Not about computer history per se, but about how computers work
