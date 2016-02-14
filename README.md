@@ -79,6 +79,7 @@ _Dramatized versions of real events_
 
 - [Pirates of Silicon Valley](http://www.imdb.com/title/tt0168122/) (1999) - History of Apple and Microsoft <sup>[7.3/10](http://www.imdb.com/title/tt0168122/)</sup>
 - [Micro Men](https://www.youtube.com/watch?v=XXBxV6-zamM) (2009) - History of Acorn Computers and Sinclair Research <sup>[7.6/10](http://www.imdb.com/title/tt1459467/)</sup>
+- [The Social Network](https://en.wikipedia.org/wiki/The_Social_Network) (2010) - The history of the birth of Facebook <sub>[7.8/10](http://www.imdb.com/title/tt1285016/)</sub>
 
 ## Texts
 
