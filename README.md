@@ -27,6 +27,9 @@ A curated list of computer history videos, documentaries and related folklore ma
 - [Xerox Parc - Office Alto Commercial](https://www.youtube.com/watch?v=M0zgj2p7Ww4) (1972)
 - [The UNIX System: Making Computers More Productive](https://www.youtube.com/watch?v=tc4ROCJYbm0) (1982)
 - [The UNIX System: Making Computers Easier to Use](https://www.youtube.com/watch?v=XvDZLjaCJuw) (1982)
+- [Every Steve Jobs Video](https://www.youtube.com/user/EverySteveJobsVideo/playlists) (1980-2011) - Steve Jobs's largest video archive. A few of the notable videos are:
+  - [Original Macintosh introduction](https://www.youtube.com/watch?v=YShLWK9n2Sk) (1984)
+  - [NeXT's Brainstorming](https://youtu.be/BNeXlJW70KQ) (1985-86)
 - [The Computer Chronicles](https://www.youtube.com/channel/UCkJ6eQKpHZgsZBla4JgKj3A) (1983-2002) - All episodes. A few of the notable episodes are:
   - [Simulator Software](https://www.youtube.com/watch?v=ZVZiureyV-s) (1983)
   - [Artificial Intelligence](https://www.youtube.com/watch?v=7Uz3HYfCIGc) (1985)
