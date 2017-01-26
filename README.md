@@ -10,7 +10,7 @@ A curated list of computer history videos, documentaries and related folklore ma
   - [Old recordings](#old-recordings)
   - [Documentaries](#documentaries)
   - [Reflective interviews](#reflective-interviews)
-  - [Talks](#talks)
+  - [Talks & Lectures](##talks--lectures)
   - [Movies](#movies)
   - [Commercials](#commercials)
 - [Texts](#texts)
