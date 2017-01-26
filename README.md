@@ -59,7 +59,7 @@ A curated list of computer history videos, documentaries and related folklore ma
 - [Silicon Valley](http://www.pbs.org/wgbh/americanexperience/films/silicon/) (2013) - A PBS "American Experience" documentary about the start of Silicon Valley <sup>[8.1/10](http://www.imdb.com/title/tt2547530/)</sup>
 - [TPB AFK: The Pirate Bay Away From Keyboard](https://www.youtube.com/watch?v=eTOKXCEwo_8) (2013) <sup>[7.6/10](http://www.imdb.com/title/tt2608732/)</sup>
 - [DEFCON: The Documentary](https://www.youtube.com/watch?v=3ctQOmjQyYg) (2013) - Documentary about DEFCON, the biggest hacker conference <sup>[5.6/10](http://www.imdb.com/title/tt3010462/)</sup>
-- [Downloaded](https://archive.org/details/Downloaded.2013-The.Napster.Revolution) (2013) - The Napster Revolution, a documentary that explores the downloading revolution <sup>[6.8/10](http://www.imdb.com/title/tt2033981/)</sup>
+- [Downloaded](https://www.youtube.com/watch?v=kSZqkn9hT5w) (2013) - The Napster Revolution, a documentary that explores the downloading revolution <sup>[6.8/10](http://www.imdb.com/title/tt2033981/)</sup>
 - [Birth of BASIC](https://www.youtube.com/watch?v=WYPNjSoDrqw) (2014) - Invention of the Basic computer language.
 - [The Internet's Own Boy: The Story of Aaron Swartz](https://www.youtube.com/watch?v=vXr-2hwTk58) (2014) - The story of programming prodigy and information activist Aaron Swartz <sup>[8.1/10](http://www.imdb.com/title/tt3268458/)</sup>
 - [Rise of the Hackers](https://www.youtube.com/watch?v=dQnAEiGx1-4) (2014) - Harnessing cryptography to stay a step ahead of cybercriminals <sup>[7.8/10](http://www.imdb.com/title/tt3979842/)</sup>
