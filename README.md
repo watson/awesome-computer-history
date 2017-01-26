@@ -70,7 +70,7 @@ A curated list of computer history videos, documentaries and related folklore ma
 - [The Great 202 Jailbreak](https://www.youtube.com/watch?v=CVxeuwlvf8w) (2013) - David Brailsford
 - [UNIX Special: Profs Kernighan & Brailsford](https://www.youtube.com/watch?v=vT_J6xc-Az0) (2015) - David Brailsford interviews Brian Kernighan
 
-### Talks
+### Talks & Lectures
 
 - [Computers From The Inside Out](https://www.youtube.com/watch?v=EKWGGDXe5MA) (1985) - Richard Feynman Computer Heuristics Lecture. Not about computer history per se, but about how computers work
 - [The Origins of Linux - Linus Torvalds](https://www.youtube.com/watch?v=WVTWCPoUt8w) (2001) - Linus Torvalds tells the story of how he went from writing code as a graduate student to become an icon for open source software.
