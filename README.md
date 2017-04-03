@@ -56,7 +56,7 @@ A curated list of computer history videos, documentaries and related folklore ma
 - [Hackers Are People Too](https://www.youtube.com/watch?v=7jciIsuEZWM) (2008) - Documentary about what hackers are <sup>[6.1/10](http://www.imdb.com/title/tt1279942/)</sup>
 - [Something Ventured](http://www.imdb.com/title/tt1737747/) (2011) - The history of early venture capital <sup>[7.0/10](http://www.imdb.com/title/tt1737747/)</sup>
 - [Code 2600](https://www.youtube.com/watch?v=FAfUjqIbfXo) (2011) - Documents the Info-Tech Age, told by the events and people who helped build and manipulate it <sup>[7.6/10](http://www.imdb.com/title/tt1830538/)</sup>
-- [Silicon Valley](http://www.pbs.org/wgbh/americanexperience/films/silicon/) (2013) - A PBS "American Experience" documentary about the start of Silicon Valley <sup>[8.1/10](http://www.imdb.com/title/tt2547530/)</sup>
+- [Silicon Valley](http://www.pbs.org/video/2332168287/) (2013) - A PBS "American Experience" documentary about the start of Silicon Valley <sup>[8.1/10](http://www.imdb.com/title/tt2547530/)</sup>
 - [TPB AFK: The Pirate Bay Away From Keyboard](https://www.youtube.com/watch?v=eTOKXCEwo_8) (2013) <sup>[7.6/10](http://www.imdb.com/title/tt2608732/)</sup>
 - [DEFCON: The Documentary](https://www.youtube.com/watch?v=3ctQOmjQyYg) (2013) - Documentary about DEFCON, the biggest hacker conference <sup>[5.6/10](http://www.imdb.com/title/tt3010462/)</sup>
 - [Downloaded](https://www.youtube.com/watch?v=kSZqkn9hT5w) (2013) - The Napster Revolution, a documentary that explores the downloading revolution <sup>[6.8/10](http://www.imdb.com/title/tt2033981/)</sup>
