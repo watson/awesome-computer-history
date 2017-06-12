@@ -64,6 +64,10 @@ A curated list of computer history videos, documentaries and related folklore ma
 - [The Internet's Own Boy: The Story of Aaron Swartz](https://www.youtube.com/watch?v=vXr-2hwTk58) (2014) - The story of programming prodigy and information activist Aaron Swartz <sup>[8.1/10](http://www.imdb.com/title/tt3268458/)</sup>
 - [Rise of the Hackers](https://www.youtube.com/watch?v=dQnAEiGx1-4) (2014) - Harnessing cryptography to stay a step ahead of cybercriminals <sup>[7.8/10](http://www.imdb.com/title/tt3979842/)</sup>
 
+### Podcasts
+
+- [Internet History Podcast](http://www.internethistorypodcast.com/) ([subscribe](https://itunes.apple.com/us/podcast/internet-history-podcast/id829119009))
+
 ### Reflective interviews
 
 - [Steve Jobs - The Lost Interview](https://www.youtube.com/watch?v=TRZAJY23xio) (2012) - A conversation with Steve Jobs as he was running NeXT, the company he had founded after leaving Apple <sup>[8.1/10](http://www.imdb.com/title/tt2104994/)</sup>
