@@ -59,12 +59,14 @@ A curated list of computer history videos, documentaries and related folklore ma
 - [Something Ventured](http://www.imdb.com/title/tt1737747/) (2011) - The history of early venture capital <sup>[7.0/10](http://www.imdb.com/title/tt1737747/)</sup>
 - [Code 2600](https://www.youtube.com/watch?v=FAfUjqIbfXo) (2011) - Documents the Info-Tech Age, told by the events and people who helped build and manipulate it <sup>[7.6/10](http://www.imdb.com/title/tt1830538/)</sup>
 - [Silicon Valley](http://www.pbs.org/video/2332168287/) (2013) - A PBS "American Experience" documentary about the start of Silicon Valley <sup>[8.1/10](http://www.imdb.com/title/tt2547530/)</sup>
+- [The Story of Google](https://www.youtube.com/watch?v=Lv6k1occFME) (2013) - A Discovery Channel documentary about the story of Google.
 - [TPB AFK: The Pirate Bay Away From Keyboard](https://www.youtube.com/watch?v=eTOKXCEwo_8) (2013) <sup>[7.6/10](http://www.imdb.com/title/tt2608732/)</sup>
 - [DEFCON: The Documentary](https://www.youtube.com/watch?v=3ctQOmjQyYg) (2013) - Documentary about DEFCON, the biggest hacker conference <sup>[5.6/10](http://www.imdb.com/title/tt3010462/)</sup>
 - [Downloaded](https://www.youtube.com/watch?v=kSZqkn9hT5w) (2013) - The Napster Revolution, a documentary that explores the downloading revolution <sup>[6.8/10](http://www.imdb.com/title/tt2033981/)</sup>
 - [Birth of BASIC](https://www.youtube.com/watch?v=WYPNjSoDrqw) (2014) - Invention of the Basic computer language.
 - [The Internet's Own Boy: The Story of Aaron Swartz](https://www.youtube.com/watch?v=vXr-2hwTk58) (2014) - The story of programming prodigy and information activist Aaron Swartz <sup>[8.1/10](http://www.imdb.com/title/tt3268458/)</sup>
 - [Rise of the Hackers](https://www.youtube.com/watch?v=dQnAEiGx1-4) (2014) - Harnessing cryptography to stay a step ahead of cybercriminals <sup>[7.8/10](http://www.imdb.com/title/tt3979842/)</sup>
+- [Silicon Cowboys](https://www.netflix.com/title/80104318) (2016) - Documentary detailing the story of Compaq, its three founders and how it took on IBM at the height of its PC dominance. <sup>[6.7/10](http://www.imdb.com/title/tt4938484/)</sup>
 
 ### Reflective interviews
 
