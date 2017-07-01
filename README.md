@@ -118,6 +118,7 @@ _Dramatized versions of real events_
 - [A Cypherpunk's Manifesto](https://w2.eff.org/Privacy/Crypto/Crypto_misc/cypherpunk.manifesto) (1993)
 - [The Story of Getting SSH Port 22](https://www.ssh.com/ssh/port) (1995)
 - [In the Beginning…Was the Command Line](http://www.cryptonomicon.com/beginning.html) (1999)
+- [The case of the 500-mile email](https://www.ibiblio.org/harris/500milemail.html) (2002)
 - [UTF-8 history](http://www.cl.cam.ac.uk/~mgk25/ucs/utf-8-history.txt) (2003)
 - [20 Years — One Standard: The Story of TCP/IP](http://www.cbi.umn.edu/iterations/spira.html) (2003)
 - [How Steve Wozniak Wrote BASIC for the Original Apple From Scratch](http://gizmodo.com/how-steve-wozniak-wrote-basic-for-the-original-apple-fr-1570573636) (2014)
