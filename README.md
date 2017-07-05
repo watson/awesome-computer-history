@@ -24,7 +24,6 @@ A curated list of computer history videos, documentaries and related folklore ma
 ## Videos
 
 ### Old recordings
-
 - [United States Navy Training Media: Basic Mechanisms in Fire Control Computers](https://www.youtube.com/playlist?list=PLkPOzHopOIo7ii8LTjgwBT_XMTR7q54KX) (1953)
 - [Timesharing: A Solution to Computer Bottlenecks](https://www.youtube.com/watch?v=Q07PhW5sCEk) (1963)
 - [The Mother of All Demos](https://www.youtube.com/watch?v=yJDv-zdhzMY) (1968)
@@ -42,6 +41,9 @@ A curated list of computer history videos, documentaries and related folklore ma
   - [Hackers](https://archive.org/details/nc101_hackers) (1996) - Looks at the hacker culture and their influence on the early growth of the internet
   - [Politics on the Web](https://archive.org/details/nc103_cyberpolitics) (1996) - Institute for Global Communications, Cyperpunks and Anarchists Press
 - [Steve Jobs: The Crazy Ones](https://www.youtube.com/watch?v=VCz_SiPD_X0) (1997) - Steve Jobs talks about The Crazy Ones marketing campaign on internal Apple meeting
+- [John McCarthy (1927-2011): Artificial Intelligence (complete) - Thinking Allowed -Jeffrey Mishlove
+](https://www.youtube.com/watch?v=Ozipf13jRr4)
+
 
 ### Documentaries
 
