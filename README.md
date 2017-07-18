@@ -19,6 +19,7 @@ A curated list of computer history videos, documentaries and related folklore ma
   - [Folklore](#folklore)
   - [Announcements](#announcements)
 - [Source Code](#source-code)
+- [Websites](#websites)
 - [License](#license)
 
 ## Videos
@@ -132,6 +133,10 @@ _Dramatized versions of real events_
 
 - [C compiler](https://www.bell-labs.com/usr/dmr/www/primevalC.html) (1972) - The earliest known versions of Dennis Ritchie's first C compiler ([GitHub code mirror](https://github.com/mortdeus/legacy-cc))
 - [UNIX](https://github.com/dspinellis/unix-history-repo/tree/Research-Release) (1972) - Continuous Unix commit history from 1972 until today
+
+## Websites
+
+- [The Amazing FishCam](http://fishcam.com/) (1994) - The Fishcam was the second live camera on the web and is the oldest camera site still in existence
 
 ## License
 
