@@ -43,6 +43,9 @@ A curated list of computer history videos, documentaries and related folklore ma
   - [Hackers](https://archive.org/details/nc101_hackers) (1996) - Looks at the hacker culture and their influence on the early growth of the internet
   - [Politics on the Web](https://archive.org/details/nc103_cyberpolitics) (1996) - Institute for Global Communications, Cyperpunks and Anarchists Press
 - [Steve Jobs: The Crazy Ones](https://www.youtube.com/watch?v=VCz_SiPD_X0) (1997) - Steve Jobs talks about The Crazy Ones marketing campaign on internal Apple meeting
+- Computer Networks - ARPANET (1972) - The developers of the ARPANET talk about their new network:
+  - [Part 1](https://youtu.be/fVhwOaCwkb0)
+  - [Part 2](https://youtu.be/RmO4TxDCMjI)
 
 ### Documentaries
 
