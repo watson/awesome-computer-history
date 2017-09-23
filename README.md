@@ -30,6 +30,9 @@ A curated list of computer history videos, documentaries and related folklore ma
 - [Timesharing: A Solution to Computer Bottlenecks](https://www.youtube.com/watch?v=Q07PhW5sCEk) (1963)
 - [The Mother of All Demos](https://www.youtube.com/watch?v=yJDv-zdhzMY) (1968)
 - [Xerox Parc - Office Alto Commercial](https://www.youtube.com/watch?v=M0zgj2p7Ww4) (1972)
+- Computer Networks - ARPANET (1972) - The developers of the ARPANET talk about their new network:
+  - [Part 1](https://youtu.be/fVhwOaCwkb0)
+  - [Part 2](https://youtu.be/RmO4TxDCMjI)
 - [KRON San Francisco: Primitive Internet report](https://www.youtube.com/watch?v=5WCTn4FljUQ) (1981) - KRON San Francisco news segment on how early home computer users could read their morning newspapers online
 - [The UNIX System: Making Computers More Productive](https://www.youtube.com/watch?v=tc4ROCJYbm0) (1982)
 - [The UNIX System: Making Computers Easier to Use](https://www.youtube.com/watch?v=XvDZLjaCJuw) (1982)
@@ -43,9 +46,6 @@ A curated list of computer history videos, documentaries and related folklore ma
   - [Hackers](https://archive.org/details/nc101_hackers) (1996) - Looks at the hacker culture and their influence on the early growth of the internet
   - [Politics on the Web](https://archive.org/details/nc103_cyberpolitics) (1996) - Institute for Global Communications, Cyperpunks and Anarchists Press
 - [Steve Jobs: The Crazy Ones](https://www.youtube.com/watch?v=VCz_SiPD_X0) (1997) - Steve Jobs talks about The Crazy Ones marketing campaign on internal Apple meeting
-- Computer Networks - ARPANET (1972) - The developers of the ARPANET talk about their new network:
-  - [Part 1](https://youtu.be/fVhwOaCwkb0)
-  - [Part 2](https://youtu.be/RmO4TxDCMjI)
 
 ### Documentaries
 
