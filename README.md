@@ -30,6 +30,9 @@ A curated list of computer history videos, documentaries and related folklore ma
 - [Timesharing: A Solution to Computer Bottlenecks](https://www.youtube.com/watch?v=Q07PhW5sCEk) (1963)
 - [The Mother of All Demos](https://www.youtube.com/watch?v=yJDv-zdhzMY) (1968)
 - [Xerox Parc - Office Alto Commercial](https://www.youtube.com/watch?v=M0zgj2p7Ww4) (1972)
+- Computer Networks - ARPANET (1972) - The developers of the ARPANET talk about their new network:
+  - [Part 1](https://youtu.be/fVhwOaCwkb0)
+  - [Part 2](https://youtu.be/RmO4TxDCMjI)
 - [KRON San Francisco: Primitive Internet report](https://www.youtube.com/watch?v=5WCTn4FljUQ) (1981) - KRON San Francisco news segment on how early home computer users could read their morning newspapers online
 - [The UNIX System: Making Computers More Productive](https://www.youtube.com/watch?v=tc4ROCJYbm0) (1982)
 - [The UNIX System: Making Computers Easier to Use](https://www.youtube.com/watch?v=XvDZLjaCJuw) (1982)
