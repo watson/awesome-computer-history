@@ -33,6 +33,7 @@ A curated list of computer history videos, documentaries and related folklore ma
 - Computer Networks - ARPANET (1972) - The developers of the ARPANET talk about their new network:
   - [Part 1](https://youtu.be/fVhwOaCwkb0)
   - [Part 2](https://youtu.be/RmO4TxDCMjI)
+- [A Computer Animated Hand](https://www.youtube.com/watch?v=Jjbax5HYHLQ) (1972) - One of the earliest examples of computer animation
 - [KRON San Francisco: Primitive Internet report](https://www.youtube.com/watch?v=5WCTn4FljUQ) (1981) - KRON San Francisco news segment on how early home computer users could read their morning newspapers online
 - [The UNIX System: Making Computers More Productive](https://www.youtube.com/watch?v=tc4ROCJYbm0) (1982)
 - [The UNIX System: Making Computers Easier to Use](https://www.youtube.com/watch?v=XvDZLjaCJuw) (1982)
