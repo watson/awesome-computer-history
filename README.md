@@ -31,8 +31,8 @@ A curated list of computer history videos, documentaries and related folklore ma
 - [The Mother of All Demos](https://www.youtube.com/watch?v=yJDv-zdhzMY) (1968)
 - [Xerox Parc - Office Alto Commercial](https://www.youtube.com/watch?v=M0zgj2p7Ww4) (1972)
 - Computer Networks - ARPANET (1972) - The developers of the ARPANET talk about their new network:
-  - [Part 1](https://youtu.be/fVhwOaCwkb0)
-  - [Part 2](https://youtu.be/RmO4TxDCMjI)
+  - [Part 1](https://www.youtube.com/watch?v=fVhwOaCwkb0)
+  - [Part 2](https://www.youtube.com/watch?v=RmO4TxDCMjI)
 - [A Computer Animated Hand](https://www.youtube.com/watch?v=Jjbax5HYHLQ) (1972) - One of the earliest examples of computer animation
 - [KRON San Francisco: Primitive Internet report](https://www.youtube.com/watch?v=5WCTn4FljUQ) (1981) - KRON San Francisco news segment on how early home computer users could read their morning newspapers online
 - [The UNIX System: Making Computers More Productive](https://www.youtube.com/watch?v=tc4ROCJYbm0) (1982)
@@ -68,7 +68,7 @@ A curated list of computer history videos, documentaries and related folklore ma
   - [Part 4: People Power](https://www.youtube.com/watch?v=f42J_reRO0Q) – Peer to peer technology, web 2.0, and social networking
 - [Something Ventured](http://www.imdb.com/title/tt1737747/) (2011) - The history of early venture capital <sup>[7.0/10](http://www.imdb.com/title/tt1737747/)</sup>
 - [Code 2600](https://www.youtube.com/watch?v=FAfUjqIbfXo) (2011) - Documents the Info-Tech Age, told by the events and people who helped build and manipulate it <sup>[7.6/10](http://www.imdb.com/title/tt1830538/)</sup>
-- [Silicon Valley](http://www.pbs.org/video/2332168287/) (2013) - A PBS "American Experience" documentary about the start of Silicon Valley <sup>[8.1/10](http://www.imdb.com/title/tt2547530/)</sup>
+- [Silicon Valley](http://www.pbs.org/video/american-experience-silicon-valley/) (2013) - A PBS "American Experience" documentary about the start of Silicon Valley <sup>[8.1/10](http://www.imdb.com/title/tt2547530/)</sup>
 - [TPB AFK: The Pirate Bay Away From Keyboard](https://www.youtube.com/watch?v=eTOKXCEwo_8) (2013) <sup>[7.6/10](http://www.imdb.com/title/tt2608732/)</sup>
 - [DEFCON: The Documentary](https://www.youtube.com/watch?v=3ctQOmjQyYg) (2013) - Documentary about DEFCON, the biggest hacker conference <sup>[5.6/10](http://www.imdb.com/title/tt3010462/)</sup>
 - [Downloaded](https://www.youtube.com/watch?v=kSZqkn9hT5w) (2013) - The Napster Revolution, a documentary that explores the downloading revolution <sup>[6.8/10](http://www.imdb.com/title/tt2033981/)</sup>
@@ -118,7 +118,7 @@ _Dramatized versions of real events_
 - [Real Programmers Don't Use PASCAL](http://web.mit.edu/humor/Computers/real.programmers) (1982)
 - [Epigrams on Programming](http://www.cs.yale.edu/homes/perlis-alan/quotes.html) (1982)
 - [The Story of Mel](http://www.catb.org/jargon/html/story-of-mel.html) (1983)
-- [Unix Recovery Legend](http://www.ee.ryerson.ca/~elf/hack/recovery.html) (1986)
+- [Unix Recovery Legend](https://www.ee.ryerson.ca/~elf/hack/recovery.html) (1986)
 - [The Conscience of a Hacker](http://phrack.org/issues/7/3.html) (1986) - The Hacker Manifesto
 - [The Jargon File](http://www.dourish.com/goodies/jargon.html) (1988)
 - [A Cypherpunk's Manifesto](https://w2.eff.org/Privacy/Crypto/Crypto_misc/cypherpunk.manifesto) (1993)
@@ -127,7 +127,7 @@ _Dramatized versions of real events_
 - [The case of the 500-mile email](https://www.ibiblio.org/harris/500milemail.html) (2002)
 - [UTF-8 history](http://www.cl.cam.ac.uk/~mgk25/ucs/utf-8-history.txt) (2003)
 - [20 Years — One Standard: The Story of TCP/IP](http://www.cbi.umn.edu/iterations/spira.html) (2003)
-- [How Steve Wozniak Wrote BASIC for the Original Apple From Scratch](http://gizmodo.com/how-steve-wozniak-wrote-basic-for-the-original-apple-fr-1570573636) (2014)
+- [How Steve Wozniak Wrote BASIC for the Original Apple From Scratch](https://gizmodo.com/how-steve-wozniak-wrote-basic-for-the-original-apple-fr-1570573636) (2014)
 - [The Story of the PING Program](http://ftp.arl.army.mil/~mike/ping.html) (undated)
 
 ### Announcements
