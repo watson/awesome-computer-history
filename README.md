@@ -17,7 +17,7 @@ A curated list of computer history videos, documentaries and related folklore ma
   - [Podcasts](#podcasts)
 - [Texts](#texts)
   - [Folklore](#folklore)
-  - [Announcements and Memos](#announcements)
+  - [Announcements and Memos](#announcements-and-memos)
 - [Source Code](#source-code)
 - [Websites](#websites)
 - [License](#license)
@@ -131,7 +131,7 @@ _Dramatized versions of real events_
 - [How Steve Wozniak Wrote BASIC for the Original Apple From Scratch](https://gizmodo.com/how-steve-wozniak-wrote-basic-for-the-original-apple-fr-1570573636) (2014)
 - [The Story of the PING Program](http://ftp.arl.army.mil/~mike/ping.html) (undated)
 
-### Announcements
+### Announcements and Memos
 
 - [What would you like to see most in minix?](https://groups.google.com/forum/#!topic/comp.os.minix/dlNtH7RRrGA%5B1-25%5D) (1991) - First public mention of what would later become Linux
 - [The Internet Tidal Wave](http://www.lettersofnote.com/2011/07/internet-tidal-wave.html) (1995) - Bill Gates' memo to all executive staff within Microsoft on assigning the Internet the highest level of importance
