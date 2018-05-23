@@ -17,7 +17,7 @@ A curated list of computer history videos, documentaries and related folklore ma
   - [Podcasts](#podcasts)
 - [Texts](#texts)
   - [Folklore](#folklore)
-  - [Announcements](#announcements)
+  - [Announcements and Memos](#announcements)
 - [Source Code](#source-code)
 - [Websites](#websites)
 - [License](#license)
@@ -134,6 +134,7 @@ _Dramatized versions of real events_
 ### Announcements
 
 - [What would you like to see most in minix?](https://groups.google.com/forum/#!topic/comp.os.minix/dlNtH7RRrGA%5B1-25%5D) (1991) - First public mention of what would later become Linux
+- [The Internet Tidal Wave](http://www.lettersofnote.com/2011/07/internet-tidal-wave.html) (1995) - Bill Gates' memo to all executive staff within Microsoft on assigning the Internet the highest level of importance
 
 ## Source Code
 
