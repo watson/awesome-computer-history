@@ -135,6 +135,7 @@ _Dramatized versions of real events_
 
 - [What would you like to see most in minix?](https://groups.google.com/forum/#!topic/comp.os.minix/dlNtH7RRrGA%5B1-25%5D) (1991) - First public mention of what would later become Linux
 - [The Internet Tidal Wave](http://www.lettersofnote.com/2011/07/internet-tidal-wave.html) (1995) - Bill Gates' memo to all executive staff within Microsoft on assigning the Internet the highest level of importance
+- [A bike shed (any colour will do) on greener grass...](http://phk.freebsd.dk/sagas/bikeshed.html) (1999) - Poul-Henning Kamp coining the term bikeshedding
 
 ## Source Code
 
