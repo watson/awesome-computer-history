@@ -140,6 +140,7 @@ _Dramatized versions of real events_
 - [Apollo 11 Guidance Computer](https://github.com/chrislgarry/Apollo-11) (1969) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules
 - [C compiler](https://www.bell-labs.com/usr/dmr/www/primevalC.html) (1972) - The earliest known versions of Dennis Ritchie's first C compiler ([GitHub code mirror](https://github.com/mortdeus/legacy-cc))
 - [UNIX](https://github.com/dspinellis/unix-history-repo/tree/Research-Release) (1972) - Continuous Unix commit history from 1972 until today
+- [Adobe Photoshop](http://www.computerhistory.org/atchm/adobe-photoshop-source-code/) (1990) - The first version of Adobe Photoshop (written in Pascal)
 
 ## Websites
 
