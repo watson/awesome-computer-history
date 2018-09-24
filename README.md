@@ -51,36 +51,36 @@ A curated list of computer history videos, documentaries and related folklore ma
 
 ### Documentaries
 
-- [Hackers: Wizards of the Electronic Age](https://www.youtube.com/watch?v=cVCLowi4v7w) (1984) - Documentary about a 1984 hacker conference <sup>[7.4/10](http://www.imdb.com/title/tt1191116/)</sup>
-- [The KGB, the Computer, and Me](https://www.youtube.com/watch?v=EcKxaq1FTac) (1990) - With computer scientist Clifford Stoll <sup>[8.3/10](http://www.imdb.com/title/tt0308449/)</sup>
-- [Triumph of the Nerds: The Rise of Accidental Empires](https://en.wikipedia.org/wiki/Triumph_of_the_Nerds) (1996) - History of the personal computer <sup>[8.5/10](http://www.imdb.com/title/tt0115398/)</sup>
+- [Hackers: Wizards of the Electronic Age](https://www.youtube.com/watch?v=cVCLowi4v7w) (1984) - Documentary about a 1984 hacker conference <sup>[7.4/10](https://www.imdb.com/title/tt1191116/)</sup>
+- [The KGB, the Computer, and Me](https://www.youtube.com/watch?v=EcKxaq1FTac) (1990) - With computer scientist Clifford Stoll <sup>[8.3/10](https://www.imdb.com/title/tt0308449/)</sup>
+- [Triumph of the Nerds: The Rise of Accidental Empires](https://en.wikipedia.org/wiki/Triumph_of_the_Nerds) (1996) - History of the personal computer <sup>[8.5/10](https://www.imdb.com/title/tt0115398/)</sup>
 - [The Internet: Behind the Web](https://www.youtube.com/watch?v=M9ebkjWU6Z4) (2000) - Documentary about development of internet from 1950-60's to 21st century.
-- [Code Rush](https://www.youtube.com/watch?v=4Q7FTjhvZ7Y) (2000) - The story of Netscape and the birth of Mozilla <sup>[7.3/10](http://www.imdb.com/title/tt0499004/)</sup>
-- [The Code](https://www.youtube.com/watch?v=XMm0HsmOTFI) (2001) - The Histroy of Linux & FOSS <sup>[7.6/10](http://www.imdb.com/title/tt0315417/)</sup>
-- [Revolution OS](https://www.youtube.com/watch?v=jw8K460vx1c) (2001) - The story of GNU/linux and Open Source Movement <sup>[7.3/10](http://www.imdb.com/title/tt0308808/)</sup>
-- [The Secret History Of Hacking](https://www.youtube.com/watch?v=PUf1d-GuK0Q) (2001) - History of early hackers <sup>[7.5/10](http://www.imdb.com/title/tt2335921/)</sup>
-- [BBS The Documentary](https://www.youtube.com/playlist?list=PLgE-9Sxs2IBVgJkY-1ZMj0tIFxsJ-vOkv) (2005) - History of the Bulletin Board System <sup>[8.6/10](http://www.imdb.com/title/tt0460402/)</sup>
+- [Code Rush](https://www.youtube.com/watch?v=4Q7FTjhvZ7Y) (2000) - The story of Netscape and the birth of Mozilla <sup>[7.3/10](https://www.imdb.com/title/tt0499004/)</sup>
+- [The Code](https://www.youtube.com/watch?v=XMm0HsmOTFI) (2001) - The Histroy of Linux & FOSS <sup>[7.6/10](https://www.imdb.com/title/tt0315417/)</sup>
+- [Revolution OS](https://www.youtube.com/watch?v=jw8K460vx1c) (2001) - The story of GNU/linux and Open Source Movement <sup>[7.3/10](https://www.imdb.com/title/tt0308808/)</sup>
+- [The Secret History Of Hacking](https://www.youtube.com/watch?v=PUf1d-GuK0Q) (2001) - History of early hackers <sup>[7.5/10](https://www.imdb.com/title/tt2335921/)</sup>
+- [BBS The Documentary](https://www.youtube.com/playlist?list=PLgE-9Sxs2IBVgJkY-1ZMj0tIFxsJ-vOkv) (2005) - History of the Bulletin Board System <sup>[8.6/10](https://www.imdb.com/title/tt0460402/)</sup>
 - [The Codebreakers](https://www.youtube.com/watch?v=Zc-hlV2xbSg) (2006) - Documentary about how poor countries are using free and open source software (FOSS) for development purposes.
-- [Hackers Are People Too](https://www.youtube.com/watch?v=7jciIsuEZWM) (2008) - Documentary about what hackers are <sup>[6.1/10](http://www.imdb.com/title/tt1279942/)</sup>
-- [Download: The True Story of the Internet](https://en.wikipedia.org/wiki/Download_The_True_Story_of_the_Internet) (2008) - A documentary television series about Internet history <sup>[7.8/10](http://www.imdb.com/title/tt1684716/)</sup>
+- [Hackers Are People Too](https://www.youtube.com/watch?v=7jciIsuEZWM) (2008) - Documentary about what hackers are <sup>[6.1/10](https://www.imdb.com/title/tt1279942/)</sup>
+- [Download: The True Story of the Internet](https://en.wikipedia.org/wiki/Download_The_True_Story_of_the_Internet) (2008) - A documentary television series about Internet history <sup>[7.8/10](https://www.imdb.com/title/tt1684716/)</sup>
   - [Part 1: Browser Wars](https://www.youtube.com/watch?v=VANORrzKX50) – The rise and fall of Netscape and its battle against Microsoft
   - [Part 2: Search](https://www.youtube.com/watch?v=Jjbh9FFW6VE) – The rise of Google and Yahoo
   - [Part 3: Bubble](https://www.youtube.com/watch?v=aQjnkyoNIfg) – The dot.com crash of 2000 and the mainstays of the Internet: Amazon.com and Ebay
   - [Part 4: People Power](https://www.youtube.com/watch?v=f42J_reRO0Q) – Peer to peer technology, web 2.0, and social networking
-- [Something Ventured](http://www.imdb.com/title/tt1737747/) (2011) - The history of early venture capital <sup>[7.0/10](http://www.imdb.com/title/tt1737747/)</sup>
-- [Code 2600](https://www.youtube.com/watch?v=FAfUjqIbfXo) (2011) - Documents the Info-Tech Age, told by the events and people who helped build and manipulate it <sup>[7.6/10](http://www.imdb.com/title/tt1830538/)</sup>
-- [Silicon Valley](http://www.pbs.org/video/american-experience-silicon-valley/) (2013) - A PBS "American Experience" documentary about the start of Silicon Valley <sup>[8.1/10](http://www.imdb.com/title/tt2547530/)</sup>
-- [TPB AFK: The Pirate Bay Away From Keyboard](https://www.youtube.com/watch?v=eTOKXCEwo_8) (2013) <sup>[7.6/10](http://www.imdb.com/title/tt2608732/)</sup>
-- [DEFCON: The Documentary](https://www.youtube.com/watch?v=3ctQOmjQyYg) (2013) - Documentary about DEFCON, the biggest hacker conference <sup>[5.6/10](http://www.imdb.com/title/tt3010462/)</sup>
-- [Downloaded](https://www.youtube.com/watch?v=kSZqkn9hT5w) (2013) - The Napster Revolution, a documentary that explores the downloading revolution <sup>[6.8/10](http://www.imdb.com/title/tt2033981/)</sup>
+- [Something Ventured](https://www.imdb.com/title/tt1737747/) (2011) - The history of early venture capital <sup>[7.0/10](https://www.imdb.com/title/tt1737747/)</sup>
+- [Code 2600](https://www.youtube.com/watch?v=FAfUjqIbfXo) (2011) - Documents the Info-Tech Age, told by the events and people who helped build and manipulate it <sup>[7.6/10](https://www.imdb.com/title/tt1830538/)</sup>
+- [Silicon Valley](https://www.pbs.org/video/american-experience-silicon-valley/) (2013) - A PBS "American Experience" documentary about the start of Silicon Valley <sup>[8.1/10](https://www.imdb.com/title/tt2547530/)</sup>
+- [TPB AFK: The Pirate Bay Away From Keyboard](https://www.youtube.com/watch?v=eTOKXCEwo_8) (2013) <sup>[7.6/10](https://www.imdb.com/title/tt2608732/)</sup>
+- [DEFCON: The Documentary](https://www.youtube.com/watch?v=3ctQOmjQyYg) (2013) - Documentary about DEFCON, the biggest hacker conference <sup>[5.6/10](https://www.imdb.com/title/tt3010462/)</sup>
+- [Downloaded](https://www.youtube.com/watch?v=kSZqkn9hT5w) (2013) - The Napster Revolution, a documentary that explores the downloading revolution <sup>[6.8/10](https://www.imdb.com/title/tt2033981/)</sup>
 - [Birth of BASIC](https://www.youtube.com/watch?v=WYPNjSoDrqw) (2014) - Invention of the Basic computer language.
-- [The Internet's Own Boy: The Story of Aaron Swartz](https://www.youtube.com/watch?v=vXr-2hwTk58) (2014) - The story of programming prodigy and information activist Aaron Swartz <sup>[8.1/10](http://www.imdb.com/title/tt3268458/)</sup>
-- [Rise of the Hackers](https://www.youtube.com/watch?v=dQnAEiGx1-4) (2014) - Harnessing cryptography to stay a step ahead of cybercriminals <sup>[7.8/10](http://www.imdb.com/title/tt3979842/)</sup>
-- [Silicon Cowboys](https://www.netflix.com/title/80104318) (2016) - Documentary detailing the story of Compaq, its three founders and how it took on IBM at the height of its PC dominance. <sup>[6.7/10](http://www.imdb.com/title/tt4938484/)</sup>
+- [The Internet's Own Boy: The Story of Aaron Swartz](https://www.youtube.com/watch?v=vXr-2hwTk58) (2014) - The story of programming prodigy and information activist Aaron Swartz <sup>[8.1/10](https://www.imdb.com/title/tt3268458/)</sup>
+- [Rise of the Hackers](https://www.youtube.com/watch?v=dQnAEiGx1-4) (2014) - Harnessing cryptography to stay a step ahead of cybercriminals <sup>[7.8/10](https://www.imdb.com/title/tt3979842/)</sup>
+- [Silicon Cowboys](https://www.netflix.com/title/80104318) (2016) - Documentary detailing the story of Compaq, its three founders and how it took on IBM at the height of its PC dominance. <sup>[6.7/10](https://www.imdb.com/title/tt4938484/)</sup>
 
 ### Reflective interviews
 
-- [Steve Jobs - The Lost Interview](https://www.youtube.com/watch?v=TRZAJY23xio) (2012) - A conversation with Steve Jobs as he was running NeXT, the company he had founded after leaving Apple <sup>[8.1/10](http://www.imdb.com/title/tt2104994/)</sup>
+- [Steve Jobs - The Lost Interview](https://www.youtube.com/watch?v=TRZAJY23xio) (2012) - A conversation with Steve Jobs as he was running NeXT, the company he had founded after leaving Apple <sup>[8.1/10](https://www.imdb.com/title/tt2104994/)</sup>
 - [The Great 202 Jailbreak](https://www.youtube.com/watch?v=CVxeuwlvf8w) (2013) - David Brailsford
 - [UNIX Special: Profs Kernighan & Brailsford](https://www.youtube.com/watch?v=vT_J6xc-Az0) (2015) - David Brailsford interviews Brian Kernighan
 
@@ -96,11 +96,11 @@ A curated list of computer history videos, documentaries and related folklore ma
 
 _Dramatized versions of real events_
 
-- [Pirates of Silicon Valley](http://www.imdb.com/title/tt0168122/) (1999) - History of Apple and Microsoft <sup>[7.3/10](http://www.imdb.com/title/tt0168122/)</sup>
-- [Micro Men](https://www.youtube.com/watch?v=XXBxV6-zamM) (2009) - History of Acorn Computers and Sinclair Research <sup>[7.6/10](http://www.imdb.com/title/tt1459467/)</sup>
-- [The Social Network](https://en.wikipedia.org/wiki/The_Social_Network) (2010) - The history of the birth of Facebook <sup>[7.8/10](http://www.imdb.com/title/tt1285016/)</sup>
-- [Halt and Catch Fire](https://en.wikipedia.org/wiki/Halt_and_Catch_Fire_(TV_series)) (2014) - First portable PC, first search engines, and so on <sup>[8.3/10](http://www.imdb.com/title/tt2543312/)</sup>
-- [Steve Jobs](http://www.imdb.com/title/tt2080374/) (2015) - The story shows Steve Jobs behind the scenes of Apple's iconic product launches. <sup>[7.2/10](http://www.imdb.com/title/tt2080374/)</sup>
+- [Pirates of Silicon Valley](https://www.imdb.com/title/tt0168122/) (1999) - History of Apple and Microsoft <sup>[7.3/10](https://www.imdb.com/title/tt0168122/)</sup>
+- [Micro Men](https://www.youtube.com/watch?v=XXBxV6-zamM) (2009) - History of Acorn Computers and Sinclair Research <sup>[7.6/10](https://www.imdb.com/title/tt1459467/)</sup>
+- [The Social Network](https://en.wikipedia.org/wiki/The_Social_Network) (2010) - The history of the birth of Facebook <sup>[7.8/10](https://www.imdb.com/title/tt1285016/)</sup>
+- [Halt and Catch Fire](https://en.wikipedia.org/wiki/Halt_and_Catch_Fire_(TV_series)) (2014) - First portable PC, first search engines, and so on <sup>[8.3/10](https://www.imdb.com/title/tt2543312/)</sup>
+- [Steve Jobs](https://www.imdb.com/title/tt2080374/) (2015) - The story shows Steve Jobs behind the scenes of Apple's iconic product launches. <sup>[7.2/10](https://www.imdb.com/title/tt2080374/)</sup>
 
 ### Commercials
 
@@ -117,17 +117,17 @@ _Dramatized versions of real events_
 ### Folklore
 
 - [The Humble Programmer](https://www.cs.utexas.edu/users/EWD/ewd03xx/EWD340.PDF) (1972) - Dijkstra's overview of the programming universe as he saw it in 1972
-- [Real Programmers Don't Use PASCAL](http://web.mit.edu/humor/Computers/real.programmers) (1982)
+- [Real Programmers Don't Use PASCAL](https://web.mit.edu/humor/Computers/real.programmers) (1982)
 - [Epigrams on Programming](http://www.cs.yale.edu/homes/perlis-alan/quotes.html) (1982)
 - [The Story of Mel](http://www.catb.org/jargon/html/story-of-mel.html) (1983)
 - [Unix Recovery Legend](https://www.ee.ryerson.ca/~elf/hack/recovery.html) (1986)
 - [The Conscience of a Hacker](http://phrack.org/issues/7/3.html) (1986) - The Hacker Manifesto
-- [The Jargon File](http://www.dourish.com/goodies/jargon.html) (1988)
+- [The Jargon File](https://www.dourish.com/goodies/jargon.html) (1988)
 - [A Cypherpunk's Manifesto](https://w2.eff.org/Privacy/Crypto/Crypto_misc/cypherpunk.manifesto) (1993)
 - [The Story of Getting SSH Port 22](https://www.ssh.com/ssh/port) (1995)
 - [In the Beginning…Was the Command Line](http://www.cryptonomicon.com/beginning.html) (1999)
 - [The case of the 500-mile email](https://www.ibiblio.org/harris/500milemail.html) (2002)
-- [UTF-8 history](http://www.cl.cam.ac.uk/~mgk25/ucs/utf-8-history.txt) (2003)
+- [UTF-8 history](https://www.cl.cam.ac.uk/~mgk25/ucs/utf-8-history.txt) (2003)
 - [20 Years — One Standard: The Story of TCP/IP](http://www.cbi.umn.edu/iterations/spira.html) (2003)
 - [How Steve Wozniak Wrote BASIC for the Original Apple From Scratch](https://gizmodo.com/how-steve-wozniak-wrote-basic-for-the-original-apple-fr-1570573636) (2014)
 - [The Story of the PING Program](http://ftp.arl.army.mil/~mike/ping.html) (undated)
