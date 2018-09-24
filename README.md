@@ -106,7 +106,7 @@ _Dramatized versions of real events_
 
 ### Commercials
 
-- [Apple 1984 Super Bowl Commercial](https://www.youtube.com/watch?v=2zfqw8nhUwA) (1984) - Apple 1984 Super Bowl Commercial Introducing Macintosh Computer
+- [Apple 1984 Super Bowl Commercial](https://www.youtube.com/watch?v=2zfqw8nhUwA) (1984) - Apple 1984 Super Bowl Commercial Introducing Macintosh Computer <sup>[7.8/10](https://www.imdb.com/title/tt4227346/)</sup>
 
 ## Audio
 
