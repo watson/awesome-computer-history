@@ -70,6 +70,7 @@ A curated list of computer history videos, documentaries and related folklore ma
   - [Part 4: People Power](https://www.youtube.com/watch?v=f42J_reRO0Q) – Peer to peer technology, web 2.0, and social networking
 - [Something Ventured](https://www.imdb.com/title/tt1737747/) (2011) - The history of early venture capital <sup>[7.0/10](https://www.imdb.com/title/tt1737747/)</sup>
 - [Code 2600](https://www.youtube.com/watch?v=FAfUjqIbfXo) (2011) - Documents the Info-Tech Age, told by the events and people who helped build and manipulate it <sup>[7.4/10](https://www.imdb.com/title/tt1830538/)</sup>
+- [We Are Legion: The Story of the Hacktivists](https://www.youtube.com/watch?v=ZHl0WI32XkY) (2012) - A documentary on the workings and beliefs of the self-described "hacktivist" collective, Anonymous <sup>[7.3/10](https://www.imdb.com/title/tt2177843/)</sup>
 - [Silicon Valley](https://www.pbs.org/video/american-experience-silicon-valley/) (2013) - A PBS "American Experience" documentary about the start of Silicon Valley <sup>[7.9/10](https://www.imdb.com/title/tt2547530/)</sup>
 - [TPB AFK: The Pirate Bay Away From Keyboard](https://www.youtube.com/watch?v=eTOKXCEwo_8) (2013) <sup>[7.6/10](https://www.imdb.com/title/tt2608732/)</sup>
 - [DEFCON: The Documentary](https://www.youtube.com/watch?v=3ctQOmjQyYg) (2013) - Documentary about DEFCON, the biggest hacker conference <sup>[5.8/10](https://www.imdb.com/title/tt3010462/)</sup>
