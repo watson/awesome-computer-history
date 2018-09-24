@@ -38,7 +38,7 @@ A curated list of computer history videos, documentaries and related folklore ma
 - [KRON San Francisco: Primitive Internet report](https://www.youtube.com/watch?v=5WCTn4FljUQ) (1981) - KRON San Francisco news segment on how early home computer users could read their morning newspapers online
 - [The UNIX System: Making Computers More Productive](https://www.youtube.com/watch?v=tc4ROCJYbm0) (1982)
 - [The UNIX System: Making Computers Easier to Use](https://www.youtube.com/watch?v=XvDZLjaCJuw) (1982)
-- [The Computer Chronicles](https://www.youtube.com/channel/UCkJ6eQKpHZgsZBla4JgKj3A) (1983-2002) - All episodes. A few of the notable episodes are:
+- [The Computer Chronicles](https://www.youtube.com/channel/UCkJ6eQKpHZgsZBla4JgKj3A) (1983-2002) - All episodes <sup>[8.6/10](https://www.imdb.com/title/tt0421311/)</sup>. A few of the notable episodes are:
   - [Simulator Software](https://www.youtube.com/watch?v=ZVZiureyV-s) (1983)
   - [Artificial Intelligence](https://www.youtube.com/watch?v=7Uz3HYfCIGc) (1985)
   - [The Internet](https://www.youtube.com/watch?v=U_o8gerare0) (1993)
