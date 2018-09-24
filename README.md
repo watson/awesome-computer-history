@@ -43,6 +43,7 @@ A curated list of computer history videos, documentaries and related folklore ma
   - [Artificial Intelligence](https://www.youtube.com/watch?v=7Uz3HYfCIGc) (1985)
   - [The Internet](https://www.youtube.com/watch?v=U_o8gerare0) (1993)
 - [We Are Apple](https://www.youtube.com/watch?v=nbJy0O4UFSM) (1984) - Corporate song that was used during the Macintosh rollout in January, 1984
+- [Thinking Allowed - Artificial Intelligence](https://www.youtube.com/watch?v=Ozipf13jRr4) (1989) - Interview with John McCarthy, creator of Lisp and one of the founders of the discipline of artificial intelligence
 - [Erlang: The Movie](https://www.youtube.com/watch?v=xrIjfIjssLE) (1990)
 - [Net Cafe](https://archive.org/details/netcafe) (1996-2002) - All episodes. A few of the notable episodes are:
   - [Hackers](https://archive.org/details/nc101_hackers) (1996) - Looks at the hacker culture and their influence on the early growth of the internet
