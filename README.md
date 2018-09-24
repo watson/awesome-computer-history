@@ -123,6 +123,7 @@ _Dramatized versions of real events_
 - [Unix Recovery Legend](https://www.ee.ryerson.ca/~elf/hack/recovery.html) (1986)
 - [The Conscience of a Hacker](http://phrack.org/issues/7/3.html) (1986) - The Hacker Manifesto
 - [The Jargon File](https://www.dourish.com/goodies/jargon.html) (1988)
+- [The Crypto Anarchist Manifesto](https://www.activism.net/cypherpunk/crypto-anarchy.html) (1992)
 - [A Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html) (1993)
 - [The Story of Getting SSH Port 22](https://www.ssh.com/ssh/port) (1995)
 - [In the Beginning…Was the Command Line](http://cristal.inria.fr/~weis/info/commandline.html) (1999)
