@@ -125,7 +125,7 @@ _Dramatized versions of real events_
 - [The Jargon File](https://www.dourish.com/goodies/jargon.html) (1988)
 - [A Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html) (1993)
 - [The Story of Getting SSH Port 22](https://www.ssh.com/ssh/port) (1995)
-- [In the Beginning…Was the Command Line](http://cristal.inria.fr/~weis/info/commandline.html) (1999) <!-- source: http://www.cryptonomicon.com/beginning.html -->
+- [In the Beginning…Was the Command Line](http://cristal.inria.fr/~weis/info/commandline.html) (1999)
 - [The case of the 500-mile email](https://www.ibiblio.org/harris/500milemail.html) (2002)
 - [UTF-8 history](https://www.cl.cam.ac.uk/~mgk25/ucs/utf-8-history.txt) (2003)
 - [20 Years — One Standard: The Story of TCP/IP](http://www.cbi.umn.edu/iterations/spira.html) (2003)
