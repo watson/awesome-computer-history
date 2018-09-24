@@ -34,6 +34,7 @@ A curated list of computer history videos, documentaries and related folklore ma
   - [Part 1](https://www.youtube.com/watch?v=fVhwOaCwkb0)
   - [Part 2](https://www.youtube.com/watch?v=RmO4TxDCMjI)
 - [A Computer Animated Hand](https://www.youtube.com/watch?v=Jjbax5HYHLQ) (1972) - One of the earliest examples of computer animation
+- [The Computer Literacy Project](https://computer-literacy-project.pilots.bbcconnectedstudio.co.uk/) (1980-1989) - In the 1980s, the BBC explored the world of computing in The Computer Literacy Project (all episodes)
 - [KRON San Francisco: Primitive Internet report](https://www.youtube.com/watch?v=5WCTn4FljUQ) (1981) - KRON San Francisco news segment on how early home computer users could read their morning newspapers online
 - [The UNIX System: Making Computers More Productive](https://www.youtube.com/watch?v=tc4ROCJYbm0) (1982)
 - [The UNIX System: Making Computers Easier to Use](https://www.youtube.com/watch?v=XvDZLjaCJuw) (1982)
