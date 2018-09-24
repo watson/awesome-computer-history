@@ -45,7 +45,7 @@ A curated list of computer history videos, documentaries and related folklore ma
 - [We Are Apple](https://www.youtube.com/watch?v=nbJy0O4UFSM) (1984) - Corporate song that was used during the Macintosh rollout in January, 1984
 - [Thinking Allowed - Artificial Intelligence](https://www.youtube.com/watch?v=Ozipf13jRr4) (1989) - Interview with John McCarthy, creator of Lisp and one of the founders of the discipline of artificial intelligence
 - [Erlang: The Movie](https://www.youtube.com/watch?v=xrIjfIjssLE) (1990)
-- [Net Cafe](https://archive.org/details/netcafe) (1996-2002) - All episodes. A few of the notable episodes are:
+- [Net Cafe](https://archive.org/details/netcafe) (1996-2002) - All episodes <sup>[?/10](https://www.imdb.com/title/tt1057240/)</sup>. A few of the notable episodes are:
   - [Hackers](https://archive.org/details/nc101_hackers) (1996) - Looks at the hacker culture and their influence on the early growth of the internet
   - [Politics on the Web](https://archive.org/details/nc103_cyberpolitics) (1996) - Institute for Global Communications, Cyperpunks and Anarchists Press
 - [Steve Jobs: The Crazy Ones](https://www.youtube.com/watch?v=VCz_SiPD_X0) (1997) - Steve Jobs talks about The Crazy Ones marketing campaign on internal Apple meeting
