@@ -123,9 +123,9 @@ _Dramatized versions of real events_
 - [Unix Recovery Legend](https://www.ee.ryerson.ca/~elf/hack/recovery.html) (1986)
 - [The Conscience of a Hacker](http://phrack.org/issues/7/3.html) (1986) - The Hacker Manifesto
 - [The Jargon File](https://www.dourish.com/goodies/jargon.html) (1988)
-- [A Cypherpunk's Manifesto](https://w2.eff.org/Privacy/Crypto/Crypto_misc/cypherpunk.manifesto) (1993)
+- [A Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html) (1993)
 - [The Story of Getting SSH Port 22](https://www.ssh.com/ssh/port) (1995)
-- [In the Beginning…Was the Command Line](http://www.cryptonomicon.com/beginning.html) (1999)
+- [In the Beginning…Was the Command Line](http://cristal.inria.fr/~weis/info/commandline.html) (1999) <!-- source: http://www.cryptonomicon.com/beginning.html -->
 - [The case of the 500-mile email](https://www.ibiblio.org/harris/500milemail.html) (2002)
 - [UTF-8 history](https://www.cl.cam.ac.uk/~mgk25/ucs/utf-8-history.txt) (2003)
 - [20 Years — One Standard: The Story of TCP/IP](http://www.cbi.umn.edu/iterations/spira.html) (2003)
