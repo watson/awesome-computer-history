@@ -66,7 +66,7 @@ A curated list of computer history videos, documentaries and related folklore ma
 - [Download: The True Story of the Internet](https://en.wikipedia.org/wiki/Download_The_True_Story_of_the_Internet) (2008) - A documentary television series about Internet history <sup>[7.8/10](https://www.imdb.com/title/tt1684716/)</sup>
   - [Part 1: Browser Wars](https://www.youtube.com/watch?v=VANORrzKX50) – The rise and fall of Netscape and its battle against Microsoft
   - [Part 2: Search](https://www.youtube.com/watch?v=Jjbh9FFW6VE) – The rise of Google and Yahoo
-  - [Part 3: Bubble](https://www.youtube.com/watch?v=aQjnkyoNIfg) – The dot.com crash of 2000 and the mainstays of the Internet: Amazon.com and Ebay
+  - [Part 3: Bubble](https://www.youtube.com/watch?v=aQjnkyoNIfg) – The dot-com crash of 2000 and the mainstays of the Internet: Amazon.com and Ebay
   - [Part 4: People Power](https://www.youtube.com/watch?v=f42J_reRO0Q) – Peer to peer technology, web 2.0, and social networking
 - [Something Ventured](https://www.imdb.com/title/tt1737747/) (2011) - The history of early venture capital <sup>[7.0/10](https://www.imdb.com/title/tt1737747/)</sup>
 - [Code 2600](https://www.youtube.com/watch?v=FAfUjqIbfXo) (2011) - Documents the Info-Tech Age, told by the events and people who helped build and manipulate it <sup>[7.4/10](https://www.imdb.com/title/tt1830538/)</sup>
@@ -101,7 +101,7 @@ _Dramatized versions of real events_
 - [Pirates of Silicon Valley](https://www.imdb.com/title/tt0168122/) (1999) - History of Apple and Microsoft <sup>[7.3/10](https://www.imdb.com/title/tt0168122/)</sup>
 - [Micro Men](https://www.youtube.com/watch?v=XXBxV6-zamM) (2009) - History of Acorn Computers and Sinclair Research <sup>[7.6/10](https://www.imdb.com/title/tt1459467/)</sup>
 - [The Social Network](https://en.wikipedia.org/wiki/The_Social_Network) (2010) - The history of the birth of Facebook <sup>[7.7/10](https://www.imdb.com/title/tt1285016/)</sup>
-- [Halt and Catch Fire](https://en.wikipedia.org/wiki/Halt_and_Catch_Fire_(TV_series)) (2014-2017) - First portable PC, first search engines, and so on <sup>[8.4/10](https://www.imdb.com/title/tt2543312/)</sup>
+- [Halt and Catch Fire](https://en.wikipedia.org/wiki/Halt_and_Catch_Fire_(TV_series)) (2014-2017) - Set in the 1980s, this series dramatizes the personal computing boom <sup>[8.4/10](https://www.imdb.com/title/tt2543312/)</sup>
 - [Steve Jobs](https://www.imdb.com/title/tt2080374/) (2015) - The story shows Steve Jobs behind the scenes of Apple's iconic product launches. <sup>[7.2/10](https://www.imdb.com/title/tt2080374/)</sup>
 
 ### Commercials
