@@ -122,6 +122,7 @@ _Dramatized versions of real events_
 - [Real Programmers Don't Use PASCAL](https://web.mit.edu/humor/Computers/real.programmers) (1982)
 - [Epigrams on Programming](http://www.cs.yale.edu/homes/perlis-alan/quotes.html) (1982)
 - [The Story of Mel](http://www.catb.org/jargon/html/story-of-mel.html) (1983)
+- [Reflections on Trusting Trust](https://dl.acm.org/citation.cfm?id=358210) (1984) - Ken Thompson, Turing Award Lecture
 - [Unix Recovery Legend](https://www.ee.ryerson.ca/~elf/hack/recovery.html) (1986)
 - [The Conscience of a Hacker](http://phrack.org/issues/7/3.html) (1986) - The Hacker Manifesto
 - [The Jargon File](https://www.dourish.com/goodies/jargon.html) (1988)
