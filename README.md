@@ -52,7 +52,7 @@ A curated list of computer history videos, documentaries and related folklore ma
 
 ### Documentaries
 
-- [Hackers: Wizards of the Electronic Age](https://www.youtube.com/watch?v=cVCLowi4v7w) (1984) - Documentary about a 1984 hacker conference <sup>[7.6/10](https://www.imdb.com/title/tt1191116/)</sup>
+- [Hackers: Wizards of the Electronic Age](https://www.youtube.com/watch?v=zOP1LNr70aU) (1984) - Documentary about a 1984 hacker conference <sup>[7.6/10](https://www.imdb.com/title/tt1191116/)</sup>
 - [The KGB, the Computer, and Me](https://www.youtube.com/watch?v=EcKxaq1FTac) (1990) - With computer scientist Clifford Stoll <sup>[8.0/10](https://www.imdb.com/title/tt0308449/)</sup>
 - [Triumph of the Nerds: The Rise of Accidental Empires](https://en.wikipedia.org/wiki/Triumph_of_the_Nerds) (1996) - History of the personal computer <sup>[8.5/10](https://www.imdb.com/title/tt0115398/)</sup>
 - [The Internet: Behind the Web](https://www.youtube.com/watch?v=M9ebkjWU6Z4) (2000) - Documentary about development of internet from 1950-60's to 21st century.
