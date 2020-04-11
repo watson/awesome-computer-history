@@ -79,6 +79,7 @@ A curated list of computer history videos, documentaries and related folklore ma
 - [The Internet's Own Boy: The Story of Aaron Swartz](https://www.youtube.com/watch?v=vXr-2hwTk58) (2014) - The story of programming prodigy and information activist Aaron Swartz <sup>[8.1/10](https://www.imdb.com/title/tt3268458/)</sup>
 - [Rise of the Hackers](https://www.youtube.com/watch?v=dQnAEiGx1-4) (2014) - Harnessing cryptography to stay a step ahead of cybercriminals <sup>[7.5/10](https://www.imdb.com/title/tt3979842/)</sup>
 - [Silicon Cowboys](https://www.netflix.com/title/80104318) (2016) - Documentary detailing the story of Compaq, its three founders and how it took on IBM at the height of its PC dominance. <sup>[6.8/10](https://www.imdb.com/title/tt4938484/)</sup>
+- [General Magic](https://vimeo.com/ondemand/generalmagic) (2018) - Documentary about the tech start-up that created the first smartphone. <sup>[7.4/10](https://www.imdb.com/title/tt6849786/)</sup>
 
 ### Reflective interviews
 
