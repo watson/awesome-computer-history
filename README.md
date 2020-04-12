@@ -85,10 +85,12 @@ A curated list of computer history videos, documentaries and related folklore ma
 - [Steve Jobs - The Lost Interview](https://www.youtube.com/watch?v=TRZAJY23xio) (2012) - A conversation with Steve Jobs as he was running NeXT, the company he had founded after leaving Apple <sup>[8.1/10](https://www.imdb.com/title/tt2104994/)</sup>
 - [The Great 202 Jailbreak](https://www.youtube.com/watch?v=CVxeuwlvf8w) (2013) - David Brailsford
 - [UNIX Special: Profs Kernighan & Brailsford](https://www.youtube.com/watch?v=vT_J6xc-Az0) (2015) - David Brailsford interviews Brian Kernighan
+- [Oral History of Richard Page](https://www.youtube.com/watch?v=SCTTvhRXIq4) (2018) - Long interview with Richard Page. He is an alumnus of Apple Inc. He was an Apple Fellow at Apple Computer in the 1980s, and later joined Steve Jobs at NeXT. Offer a unique point of view to the Apple early years
 
 ### Talks & Lectures
 
 - [Computers From The Inside Out](https://www.youtube.com/watch?v=EKWGGDXe5MA) (1985) - Richard Feynman Computer Heuristics Lecture. Not about computer history per se, but about how computers work
+- [Hewlett Packard and Personal Computing Systems](https://www.youtube.com/watch?v=9ODG1rYXOYM) (1986) - One the rare ressource about Hewlett Packard history (Presentation given by Chuck House).
 - [The Origins of Linux - Linus Torvalds](https://www.youtube.com/watch?v=WVTWCPoUt8w) (2001) - Linus Torvalds tells the story of how he went from writing code as a graduate student to become an icon for open source software.
 - [The Secret History of Silicon Valley](https://www.youtube.com/watch?v=ZTC_RxWN_xo) (2008) - Talk by Steve Blank at the Computer History Museum
 - [Crockford on JavaScript - Volume 1: The Early Years](https://www.youtube.com/watch?v=JxAXlJEmNMg) (2011) - Not actually about JavaScript, but about early computing history
