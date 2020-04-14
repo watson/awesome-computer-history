@@ -112,7 +112,9 @@ _Dramatized versions of real events_
 
 ### Podcasts
 
+- [Command Line Heroes](https://www.redhat.com/en/command-line-heroes) ([subscribe](https://podcasts.apple.com/us/podcast/command-line-heroes/id1319947289)) - Season 4 focuses on the historical origins of modern computing.
 - [Internet History Podcast](http://www.internethistorypodcast.com/) ([subscribe](https://itunes.apple.com/us/podcast/internet-history-podcast/id829119009))
+- [On The Metal: Tales from the Hardware/Software Interface](https://oxide.computer/podcast/) ([subscribe](https://podcasts.apple.com/us/podcast/on-the-metal/id1488187473))
 
 ## Texts
 
