@@ -82,7 +82,7 @@ A curated list of computer history videos, documentaries and related folklore ma
 
 ### Reflective interviews
 
-- [Steve Jobs - The Lost Interview](https://www.youtube.com/watch?v=TRZAJY23xio) (2012) - A conversation with Steve Jobs as he was running NeXT, the company he had founded after leaving Apple <sup>[8.1/10](https://www.imdb.com/title/tt2104994/)</sup>
+- [Steve Jobs - The Lost Interview](https://www.imdb.com/title/tt2104994/) (2012) - A conversation with Steve Jobs as he was running NeXT, the company he had founded after leaving Apple <sup>[8.1/10](https://www.imdb.com/title/tt2104994/)</sup>
 - [The Great 202 Jailbreak](https://www.youtube.com/watch?v=CVxeuwlvf8w) (2013) - David Brailsford
 - [UNIX Special: Profs Kernighan & Brailsford](https://www.youtube.com/watch?v=vT_J6xc-Az0) (2015) - David Brailsford interviews Brian Kernighan
 
