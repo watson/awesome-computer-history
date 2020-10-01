@@ -55,7 +55,7 @@ A curated list of computer history videos, documentaries and related folklore ma
 - [Hackers: Wizards of the Electronic Age](https://www.youtube.com/watch?v=cVCLowi4v7w) (1984) - Documentary about a 1984 hacker conference <sup>[7.6/10](https://www.imdb.com/title/tt1191116/)</sup>
 - [The KGB, the Computer, and Me](https://www.youtube.com/watch?v=EcKxaq1FTac) (1990) - With computer scientist Clifford Stoll <sup>[8.0/10](https://www.imdb.com/title/tt0308449/)</sup>
 - [Triumph of the Nerds: The Rise of Accidental Empires](https://en.wikipedia.org/wiki/Triumph_of_the_Nerds) (1996) - History of the personal computer <sup>[8.5/10](https://www.imdb.com/title/tt0115398/)</sup>
-- [The Internet: Behind the Web](https://www.youtube.com/watch?v=M9ebkjWU6Z4) (2000) - Documentary about development of internet from 1950-60's to 21st century.
+- [The Internet: Behind the Web](https://www.youtube.com/watch?v=bfNKIjDVeQw) (2000) - Documentary about development of internet from 1950-60's to 21st century.
 - [Code Rush](https://www.youtube.com/watch?v=4Q7FTjhvZ7Y) (2000) - The story of Netscape and the birth of Mozilla <sup>[7.3/10](https://www.imdb.com/title/tt0499004/)</sup>
 - [The Code](https://www.youtube.com/watch?v=XMm0HsmOTFI) (2001) - The Histroy of Linux & FOSS <sup>[7.5/10](https://www.imdb.com/title/tt0315417/)</sup>
 - [Revolution OS](https://www.youtube.com/watch?v=jw8K460vx1c) (2001) - The story of GNU/linux and Open Source Movement <sup>[7.3/10](https://www.imdb.com/title/tt0308808/)</sup>
