@@ -134,6 +134,7 @@ _Dramatized versions of real events_
 - [20 Years — One Standard: The Story of TCP/IP](http://www.cbi.umn.edu/iterations/spira.html) (2003)
 - [How Steve Wozniak Wrote BASIC for the Original Apple From Scratch](https://gizmodo.com/how-steve-wozniak-wrote-basic-for-the-original-apple-fr-1570573636) (2014)
 - [The Story of the PING Program](http://ftp.arl.army.mil/~mike/ping.html) (undated)
+- [Mel's Loop - A Comprehensive Guide to The Story of Mel](https://melsloop.com) (2022)
 
 ### Announcements and Memos
 
