@@ -113,6 +113,7 @@ _Dramatized versions of real events_
 ### Podcasts
 
 - [Internet History Podcast](http://www.internethistorypodcast.com/) ([subscribe](https://itunes.apple.com/us/podcast/internet-history-podcast/id829119009))
+- [Advent of Computing](https://adventofcomputing.com/)
 
 ## Texts
 
